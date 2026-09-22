@@ -8,21 +8,9 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 url = "https://bina.az/graphql"
 
-params = {"operationName":"FeaturedItemsRow"}
-params["variables"] = json.dumps({"first":24, "cursor":"MTc5MDAxNDMwNTc0Nl82Mjc1ODgw"})
-params["extensions"] = json.dumps({"persistedQuery":{"version":1, "sha256Hash":"cc02557ea77b3a51bdca72328af5c60f34c8d80280918d98115862d009a0a31a"}})
-
 headers = {"User-Agent":"Mozilla/5.0", "Accept":"application/json", "Referer": "https://bina.az/"}
 headers["x-platform"] = "desktop"
 headers["Content-Type"] = "application/json"
-
-response = requests.get(url, params=params, headers=headers)
-
-data = response.json()
-
-edges = data["data"]["featuredItems"]["edges"]
-
-node = edges[0]["node"]
 
 
 def parse_node(node):
@@ -40,10 +28,6 @@ def parse_node(node):
         "city": city.get("name"),
     }
 
-
-items = [parse_node(edge["node"]) for edge in edges]
-
-page_info = data["data"]["featuredItems"]["pageInfo"]
 
 def fetch_page(cursor=None):
     variables = {"first": 24}
@@ -97,5 +81,3 @@ with open("items.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=all_items[0].keys())
     writer.writeheader()
     writer.writerows(all_items)
-
-print("saved to items.csv")
