@@ -24,6 +24,8 @@ def parse_node(node):
         "currency": price.get("currency"),
         "rooms": node.get("rooms"),
         "area": area.get("value"),
+        "floor": node.get("floor"),
+        "hasRepair": node.get("hasRepair"),
         "location": location.get("name"),
         "city": city.get("name"),
     }
