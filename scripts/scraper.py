@@ -77,7 +77,7 @@ while True:
 
 print("total", len(all_items))
 
-with open("items.csv", "w", newline="", encoding="utf-8") as f:
+with open("data/items.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=all_items[0].keys())
     writer.writeheader()
     writer.writerows(all_items)
