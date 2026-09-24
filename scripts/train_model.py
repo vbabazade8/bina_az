@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
 import joblib
 import sys
@@ -18,15 +19,28 @@ df_encoded = pd.get_dummies(df, columns=["location"])
 features = df_encoded.drop(columns=["id", "price", "city", "currency", "price_per_m2"])
 target = df_encoded["price"]
 
+features["floor"] = features["floor"].fillna(features["floor"].median())
+features["hasRepair"] = features["hasRepair"].fillna(features["hasRepair"].mode()[0])
+
 features_train, features_test, target_train, target_test = train_test_split(
     features, target, test_size=0.2, random_state=42
 )
 
-rf_model = RandomForestRegressor()
-rf_model.fit(features_train, target_train)
+# rf_model = RandomForestRegressor()
+# rf_model.fit(features_train, target_train)
 
-predictions = rf_model.predict(features_test)
+# predictions = rf_model.predict(features_test)
 
-rf_mae = mean_absolute_error(target_test, predictions)
+# rf_mae = mean_absolute_error(target_test, predictions)
+# 86919
 
-joblib.dump(rf_model, "models/model.pkl")
+model = LinearRegression()
+model.fit(features_train, target_train)
+
+predictions = model.predict(features_test)
+mae = mean_absolute_error(target_test, predictions)
+
+joblib.dump(model, "models/model.pkl")
+
+
+# 85707

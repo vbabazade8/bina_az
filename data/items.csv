@@ -1,4 +1,469 @@
 id,price,currency,rooms,area,floor,hasRepair,location,city
+6466784,303000,AZN,3,105.0,9,True,İnşaatçılar,Bakı
+6451938,1500,AZN,2,70.0,,True,Şah İsmayıl Xətai,Bakı
+6406285,303000,AZN,3,86.3,9,True,Qara Qarayev,Bakı
+6376906,295000,AZN,3,125.0,17,True,İnşaatçılar,Bakı
+6486957,465000,AZN,3,140.0,4,True,Şah İsmayıl Xətai,Bakı
+6445114,66300,AZN,1,40.0,4,True,Masazır,Bakı
+5824417,144450,AZN,4,107.0,7,False,Məmmədli,Bakı
+5883708,99900,AZN,2,74.0,8,False,Məmmədli,Bakı
+6383069,369500,AZN,3,86.6,2,True,Sea Breeze,Bakı
+5504945,459306,AZN,2,94.8,4,True,Sea Breeze,Bakı
+6175853,250,AZN,3,110.0,,True,Bilgəh,Bakı
+5056392,300000,AZN,1,75.0,4,True,Sea Breeze,Bakı
+4967643,236168,AZN,2,89.1,6,False,Dərnəgül,Bakı
+6454440,450000,AZN,3,90.0,10,True,Sahil,Bakı
+6444349,255000,AZN,3,104.0,9,True,,Sumqayıt
+4472383,72640,AZN,1,45.4,4,False,,Sumqayıt
+6175727,300,AZN,5,180.0,,True,Bilgəh,Bakı
+6455968,230000,AZN,2,68.7,8,True,8 Noyabr,Bakı
+6458630,120000,AZN,2,35.0,1,True,Memar Əcəmi,Bakı
+6404756,220000,AZN,3,126.3,17,True,Nizami,Bakı
+6484180,355000,AZN,5,150.0,3,True,Səbail,Bakı
+6464305,850000,AZN,8,390.0,,False,Sea Breeze,Bakı
+6049090,205000,AZN,1,54.0,1,False,Sea Breeze,Bakı
+6327422,900,AZN,,60.0,,True,28 May,Bakı
+4768323,1200000,AZN,5,230.0,,True,Nardaran,Bakı
+6464483,278280,AZN,3,77.3,15,True,20 Yanvar,Bakı
+5827932,233400,AZN,2,77.8,20,True,20 Yanvar,Bakı
+6465534,262150,AZN,3,74.9,2,True,20 Yanvar,Bakı
+6412250,198000,AZN,2,46.0,5,True,Koroğlu,Bakı
+6464007,585000,AZN,4,170.0,,True,Mərdəkan,Bakı
+5504127,416500,AZN,2,98.0,4,False,Sea Breeze,Bakı
+6442333,155000,AZN,2,45.0,13,True,Avtovağzal,Bakı
+6391494,140000,AZN,1,57.0,2,False,Sea Breeze,Bakı
+5010781,279000,AZN,1,47.0,3,True,Sea Breeze,Bakı
+6049365,414000,AZN,2,102.0,4,False,Sea Breeze,Bakı
+6406243,233,AZN,3,100.0,10,True,Elmlər Akademiyası,Bakı
+6470606,89500,AZN,2,69.0,3,True,,Xırdalan
+6412501,765000,AZN,3,139.0,4,True,Sea Breeze,Bakı
+6412505,409000,AZN,2,78.0,2,True,Sea Breeze,Bakı
+6412495,299000,AZN,1,57.0,4,True,Sea Breeze,Bakı
+6327057,250000,AZN,,17.0,,,Digah,Bakı
+4158518,538500,AZN,4,179.5,3,False,8 Noyabr,Bakı
+4090254,401082,AZN,3,129.8,6,False,8 Noyabr,Bakı
+6483850,135000,AZN,,15.0,,,,Qəbələ
+4223527,401700,AZN,3,130.0,6,False,8 Noyabr,Bakı
+6486914,148000,AZN,3,48.0,3,True,Həzi Aslanov,Bakı
+4989746,250,AZN,7,300.0,,True,Şüvəlan,Bakı
+3916315,283081,AZN,3,89.3,7,False,8 Noyabr,Bakı
+6283839,353000,AZN,3,134.0,6,True,8 Noyabr,Bakı
+3916248,289731,AZN,3,89.7,9,False,8 Noyabr,Bakı
+4114907,436800,AZN,3,130.0,15,False,8 Noyabr,Bakı
+4170452,163115,AZN,2,50.5,9,False,8 Noyabr,Bakı
+4114924,263360,AZN,3,82.3,8,False,8 Noyabr,Bakı
+4090316,554655,AZN,4,179.5,6,False,8 Noyabr,Bakı
+5936841,233000,AZN,2,98.0,9,False,Nardaran,Bakı
+5869316,232000,AZN,2,76.0,2,False,Nardaran,Bakı
+4223502,404976,AZN,3,129.8,7,False,8 Noyabr,Bakı
+4057824,158570,AZN,2,50.5,6,False,8 Noyabr,Bakı
+4530269,536928,AZN,3,150.4,4,False,Nardaran,Bakı
+4127590,287040,AZN,3,89.7,8,False,8 Noyabr,Bakı
+4076305,164630,AZN,2,50.5,10,False,8 Noyabr,Bakı
+4170473,268298,AZN,3,82.3,10,False,8 Noyabr,Bakı
+4158487,160085,AZN,2,50.5,7,False,8 Noyabr,Bakı
+6478082,110000,AZN,,21.0,,,,Sumqayıt
+5974828,2000,AZN,,95.0,,True,Şah İsmayıl Xətai,Bakı
+6039297,60,AZN,2,80.0,6,True,28 May,Bakı
+6151252,700,AZN,2,70.0,2,True,Memar Əcəmi,Bakı
+3334218,245000,AZN,1,59.4,,True,Nardaran,Bakı
+6485118,600000,AZN,2,110.0,6,True,İçəri Şəhər,Bakı
+4672911,165500,AZN,1,48.0,3,False,Nardaran,Bakı
+6295052,272000,AZN,1,54.0,3,True,Sea Breeze,Bakı
+6453631,120000,AZN,2,40.0,4,True,Qara Qarayev,Bakı
+4212393,174000,AZN,1,58.0,2,False,Nardaran,Bakı
+6444730,420000,AZN,3,161.0,3,True,Nəriman Nərimanov,Bakı
+6458688,2200,AZN,,340.0,,True,Nərimanov,Bakı
+4810709,935000,AZN,7,310.0,,False,Nardaran,Bakı
+6334825,150,AZN,3,110.0,,True,Türkan,Bakı
+6445352,157000,AZN,,55.0,,True,28 May,Bakı
+6424169,118500,AZN,1,42.0,1,True,Binəqədi,Bakı
+4435565,279000,AZN,1,57.0,2,True,Nardaran,Bakı
+5066956,705500,AZN,3,138.0,7,True,Sea Breeze,Bakı
+4513499,548505,AZN,1,71.7,7,True,Nardaran,Bakı
+6475894,365000,AZN,4,153.0,8,True,Nəriman Nərimanov,Bakı
+5804874,150,AZN,5,450.0,,True,Novxanı,Bakı
+6464217,644000,AZN,4,127.0,10,True,Şah İsmayıl Xətai,Bakı
+6468135,137000,AZN,3,74.0,14,True,Yasamal,Bakı
+6312537,1500,AZN,,90.0,,True,Yeni Yasamal,Bakı
+6475821,420000,AZN,4,173.0,15,False,Səbail,Bakı
+6255305,375000,AZN,3,136.0,10,True,8 Noyabr,Bakı
+4738960,314250,AZN,1,75.0,3,False,Nizami,Bakı
+6252246,955500,AZN,3,195.0,16,False,Nizami,Bakı
+6029528,353460,AZN,2,86.0,3,False,Nizami,Bakı
+6395524,758500,AZN,4,185.0,15,False,Ağ şəhər,Bakı
+4738972,505440,AZN,2,117.0,10,False,Nizami,Bakı
+6029578,487890,AZN,2,117.0,4,False,Nizami,Bakı
+6041364,1013460,AZN,5,254.0,4,False,Nizami,Bakı
+6354515,580000,AZN,3,170.0,4,False,Şah İsmayıl Xətai,Bakı
+6041162,1023700,AZN,4,290.0,3,False,Nizami,Bakı
+6250444,1125650,AZN,5,235.0,15,False,Nizami,Bakı
+6345039,4000,AZN,,1060.0,,True,Masazır,Bakı
+6041094,768570,AZN,4,187.0,4,False,Nizami,Bakı
+6250487,615450,AZN,3,165.0,3,False,Nizami,Bakı
+5146201,632940,AZN,3,154.0,4,False,Nizami,Bakı
+5798925,574000,AZN,3,117.0,6,False,Ağ şəhər,Bakı
+6470178,133000,AZN,2,45.0,4,True,Əhmədli,Bakı
+6029618,491400,AZN,2,117.0,5,False,Nizami,Bakı
+5646958,790000,AZN,4,225.0,10,False,Nərimanov,Bakı
+6406890,123000,AZN,3,77.0,7,True,,Xırdalan
+5510792,15000,AZN,,770.0,,False,Ağ şəhər,Bakı
+4744384,648740,AZN,3,163.0,6,False,Nizami,Bakı
+6479812,4020000,AZN,12,772.0,14,True,Şah İsmayıl Xətai,Bakı
+4744383,665040,AZN,3,163.0,10,False,Nizami,Bakı
+4893906,513630,AZN,2,117.0,13,False,Nizami,Bakı
+5773211,3500,AZN,,80.0,,False,İçəri Şəhər,Bakı
+4738969,908600,AZN,4,220.0,10,False,Nizami,Bakı
+4738965,968820,AZN,4,241.0,3,False,Nizami,Bakı
+6458634,469000,AZN,3,142.0,7,True,8 Noyabr,Bakı
+6432206,950,AZN,2,70.0,7,True,Badamdar,Bakı
+5970060,150,AZN,5,210.0,,True,Novxanı,Bakı
+5972621,249500,AZN,4,105.0,2,True,Xalqlar Dostluğu,Bakı
+5778086,100000,AZN,,58.0,,,,Cəlilabad
+5946115,199000,AZN,2,45.0,3,True,Nərimanov,Bakı
+6248327,240000,AZN,2,100.0,4,True,Nəsimi,Bakı
+6284402,210000,AZN,3,60.0,10,True,Nəsimi,Bakı
+6064294,310000,AZN,4,110.0,16,True,7-ci mikrorayon,Bakı
+6273855,355000,AZN,3,113.0,4,True,Azadlıq Prospekti,Bakı
+5501175,286671,AZN,2,80.3,1,False,Sea Breeze,Bakı
+6131203,62000,AZN,,4.5,,,Şüvəlan,Bakı
+5988281,280000,AZN,2,112.0,12,True,Nəsimi,Bakı
+5999298,69000,AZN,1,72.4,2,False,Abşeron,Xırdalan
+6316898,249000,AZN,3,131.0,6,True,Yeni Yasamal,Bakı
+6483011,520000,AZN,3,125.0,20,True,Şah İsmayıl Xətai,Bakı
+6222651,365000,AZN,3,116.0,14,True,Nəsimi,Bakı
+6238695,325000,AZN,3,79.0,8,True,Nəsimi,Bakı
+6157697,145000,AZN,,6.0,,,Mərdəkan,Bakı
+6449737,348000,AZN,,24.0,,True,Bilgəh,Bakı
+5552128,414766,AZN,2,110.9,4,False,Sea Breeze,Bakı
+6431979,257499,AZN,1,56.1,2,False,Nardaran,Bakı
+6439440,85000,AZN,3,100.0,,True,Abşeron,Bakı
+6443448,255000,AZN,3,80.0,3,True,Yasamal,Bakı
+3466697,909500,AZN,5,267.5,7,False,Nizami,Bakı
+6386543,715000,AZN,4,160.0,10,True,Nizami,Bakı
+5044313,456000,AZN,2,114.0,2,True,Nizami,Bakı
+5047008,783360,AZN,4,230.4,5,False,Nizami,Bakı
+5047084,909500,AZN,5,267.5,7,False,Nəsimi,Bakı
+6409548,64000,AZN,2,53.0,,True,Sabunçu,Bakı
+5786668,416000,AZN,2,104.0,3,True,Nizami,Bakı
+6472459,114000,AZN,3,80.0,4,True,Masazır,Bakı
+5555449,449616,AZN,2,82.7,4,True,Sea Breeze,Bakı
+5786592,348000,AZN,2,87.0,2,True,Nizami,Bakı
+6484996,215000,AZN,4,160.0,,True,Şüvəlan,Bakı
+5047211,592960,AZN,3,174.4,2,False,Nizami,Bakı
+4897668,990000,AZN,12,500.0,,False,Sahil,Bakı
+6303020,310000,AZN,3,135.0,2,True,Qara Qarayev,Bakı
+6458467,260000,AZN,4,135.0,,True,Xocəsən,Bakı
+4078471,606060,AZN,4,163.8,15,False,Nizami,Bakı
+6382259,383775,AZN,2,90.3,11,False,Nardaran,Bakı
+6478430,800,AZN,3,123.0,4,True,Memar Əcəmi,Bakı
+6462931,199000,AZN,3,107.0,9,True,Zığ,Bakı
+5926133,150,AZN,1,68.0,1,True,Nardaran,Bakı
+6268026,5000000,AZN,10,500.0,,True,Bilgəh,Bakı
+6450838,325000,AZN,4,185.0,,True,Badamdar,Bakı
+6447644,1200,AZN,2,104.0,2,True,Şah İsmayıl Xətai,Bakı
+6332689,2500,AZN,,103.0,,True,Gənclik,Bakı
+6452537,365000,AZN,4,160.0,16,True,İnşaatçılar,Bakı
+6457552,270000,AZN,1,46.0,2,True,Nardaran,Bakı
+6473124,115000,AZN,1,44.0,4,False,Sea Breeze,Bakı
+6473127,170000,AZN,2,65.0,2,False,Sea Breeze,Bakı
+6473129,120000,AZN,1,44.0,6,False,Sea Breeze,Bakı
+6473131,91000,AZN,1,38.0,8,False,Sea Breeze,Bakı
+6483844,112000,AZN,2,45.0,11,True,Abşeron,Xırdalan
+5863380,395148,AZN,2,89.4,8,True,Nardaran,Bakı
+5863392,454580,AZN,3,95.5,4,True,Nardaran,Bakı
+6481046,79500,AZN,2,44.0,4,True,Masazır,Bakı
+6408660,1050600,AZN,,103.0,,True,Gənclik,Bakı
+6401117,3000,AZN,,156.0,,True,Gənclik,Bakı
+6401165,7000,AZN,,827.0,,True,Gənclik,Bakı
+6474029,340000,AZN,4,167.0,,True,Badamdar,Bakı
+6346834,385000,AZN,3,116.0,10,True,28 May,Bakı
+4472923,118400,AZN,2,74.0,7,False,,Sumqayıt
+5647358,395000,AZN,3,140.0,5,True,Nəriman Nərimanov,Bakı
+6412039,400000,AZN,,25000.0,,True,,Oğuz
+6390499,108000,AZN,,6.0,,,Sea Breeze,Bakı
+5910948,550000,AZN,,600.0,,True,Abşeron,Bakı
+6360306,250000,AZN,5,120.0,8,True,Xalqlar Dostluğu,Bakı
+6473901,376000,AZN,3,155.0,11,True,Nəsimi,Bakı
+6478981,430000,AZN,3,144.0,14,True,Nərimanov,Bakı
+5600400,300000,AZN,,120.0,,False,,Sumqayıt
+6430997,32900,AZN,,11.0,,,,Quba
+6329939,14000,AZN,13,530.0,,True,28 May,Bakı
+4882682,190,AZN,5,185.0,,True,,Qusar
+6223640,1071,AZN,3,174.0,7,True,Koroğlu,Bakı
+6352409,350000,AZN,6,390.0,,False,Pirşağı,Bakı
+6483307,372000,AZN,3,116.0,11,False,Azadlıq Prospekti,Bakı
+6471481,108500,AZN,2,50.0,10,True,,Xırdalan
+6447846,650000,AZN,4,195.0,4,False,28 May,Bakı
+6458089,239000,AZN,3,90.0,4,True,Əhmədli,Bakı
+6429468,270000,AZN,3,83.0,12,True,Yasamal,Bakı
+6329692,105000,AZN,3,82.0,,True,Binə,Bakı
+6473339,178000,AZN,3,76.0,2,True,Yeni Günəşli,Bakı
+6379586,115000,AZN,2,50.0,5,True,Həzi Aslanov,Bakı
+6336682,325000,AZN,3,100.0,5,True,Şah İsmayıl Xətai,Bakı
+6419742,494784,AZN,4,154.6,6,False,Badamdar,Bakı
+6477938,109000,AZN,,8.8,,,Nardaran,Bakı
+6231360,1400,AZN,2,94.0,12,True,28 May,Bakı
+6471657,188000,AZN,5,150.0,,True,Bakıxanov,Bakı
+6303499,1100,AZN,4,130.0,,True,Şüvəlan,Bakı
+6458953,870000,AZN,,80.0,,True,Sahil,Bakı
+6095863,2500,AZN,,80.0,,True,Sahil,Bakı
+6419736,332134,AZN,2,107.4,3,False,Badamdar,Bakı
+6484542,93000,AZN,2,77.0,1,True,Masazır,Bakı
+6467295,435000,AZN,4,190.0,12,True,Nəsimi,Bakı
+6344624,160000,AZN,,29.0,,,,Qəbələ
+6457609,155000,AZN,,5.5,,,Fatmayı,Bakı
+6417430,1680000,AZN,,600.0,,False,Sabunçu,Bakı
+6020217,495000,AZN,3,93.0,3,True,Sea Breeze,Bakı
+6476374,187000,AZN,3,80.0,3,True,Bakıxanov,Bakı
+6411794,565000,AZN,3,120.0,7,True,Nizami,Bakı
+6279253,499000,AZN,3,200.0,,True,Mərdəkan,Bakı
+6414486,27000,AZN,,5.0,,,Mərdəkan,Bakı
+5609613,700,AZN,,70.0,,,Dərnəgül,Bakı
+6422602,650000,AZN,3,400.0,18,True,Nəriman Nərimanov,Bakı
+6485805,1000,AZN,2,70.0,,True,Nərimanov,Bakı
+5790039,1500,AZN,3,83.2,4,True,Səbail,Bakı
+6089494,300000,AZN,,2000.0,,False,Mehdiabad,Bakı
+5979204,690000,AZN,6,230.0,,True,Buzovna,Bakı
+5768893,3000000,AZN,,5000.0,,False,Mehdiabad,Bakı
+6000221,1600,AZN,3,167.0,20,True,Nizami,Bakı
+6337926,920000,AZN,,36.5,,,Mərdəkan,Bakı
+6355164,6000,AZN,,200.0,,True,Şah İsmayıl Xətai,Bakı
+6431881,450000,AZN,,18.0,,,Mərdəkan,Bakı
+6480790,195000,AZN,3,80.0,5,True,Həzi Aslanov,Bakı
+6483546,258000,AZN,3,140.0,5,False,Əhmədli,Bakı
+6248620,61000,AZN,,7.4,,,Türkan,Bakı
+6475819,1208000,AZN,,302.0,,False,Nərimanov,Bakı
+6326061,12800,AZN,,2.5,,,Türkan,Bakı
+6441937,4000,AZN,,250.0,,True,Nəriman Nərimanov,Bakı
+6475717,4000,AZN,,250.0,,True,Nəriman Nərimanov,Bakı
+6474700,695000,AZN,4,152.0,9,True,Nəsimi,Bakı
+6473184,450000,AZN,,14.0,,,Saray,Bakı
+6467203,400,AZN,2,60.0,9,True,,Xırdalan
+5932037,2500,AZN,4,205.0,4,True,Elmlər Akademiyası,Bakı
+6486689,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
+6424051,20000,AZN,,557.0,,False,Ağ şəhər,Bakı
+6434895,415000,AZN,4,156.0,15,True,Binəqədi,Bakı
+6422488,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
+6419656,410000,AZN,3,152.0,4,True,Badamdar,Bakı
+6437293,299000,AZN,,90.0,,True,Masazır,Bakı
+6454101,285000,AZN,2,110.0,17,True,Nəsimi,Bakı
+6409676,79500,AZN,2,87.0,13,False,Masazır,Bakı
+5902710,190000,AZN,3,95.0,3,True,Lökbatan,Bakı
+6442475,850,AZN,2,63.0,7,True,Şah İsmayıl Xətai,Bakı
+6360595,115500,AZN,2,55.0,13,True,,Xırdalan
+6485065,2300000,AZN,,370.0,,True,Səbail,Bakı
+6458506,149000,AZN,4,120.0,,True,Masazır,Bakı
+6375171,256000,AZN,2,72.1,6,True,7-ci mikrorayon,Bakı
+6374912,2200000,AZN,,3200.0,,True,Xəzər,Bakı
+6450580,249000,AZN,5,150.0,,True,Savalan,Bakı
+6475474,235000,AZN,3,101.0,14,True,Həzi Aslanov,Bakı
+6461236,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
+6445151,137000,AZN,3,76.0,3,True,Hövsan,Bakı
+6447851,159000,AZN,2,40.0,12,True,Bayıl,Bakı
+6395676,990000,AZN,8,400.0,,True,Badamdar,Bakı
+6419810,25500,AZN,,7.0,,,,Xızı
+6243634,60000,AZN,,20.0,,,,Quba
+6412547,400000,AZN,,500.0,,False,28 May,Bakı
+6223078,310000,AZN,3,144.0,5,False,28 May,Bakı
+6053117,1700000,AZN,,1000.0,,True,Novxanı,Bakı
+6286399,221000,AZN,3,114.0,8,False,Həzi Aslanov,Bakı
+6475707,230000,AZN,4,211.6,,False,Pirallahı,Bakı
+5566735,429000,AZN,4,173.0,3,False,Koroğlu,Bakı
+6409683,310000,AZN,3,137.0,7,True,8-ci kilometr,Bakı
+6486619,470000,AZN,4,170.0,15,True,Şah İsmayıl Xətai,Bakı
+6483063,124000,AZN,2,30.0,4,True,Memar Əcəmi,Bakı
+6457185,130000,AZN,6,220.0,,True,Hövsan,Bakı
+6260372,149000,AZN,3,120.0,,True,Novxanı,Bakı
+5935556,500000,AZN,,8.0,,,Qara Qarayev,Bakı
+6384284,315000,AZN,3,110.0,17,True,Qara Qarayev,Bakı
+6412278,330000,AZN,3,105.0,12,True,Neftçilər,Bakı
+6447773,150000,AZN,,50.0,,,,Quba
+6346763,1065000,AZN,4,176.8,7,False,Ağ şəhər,Bakı
+6474629,255000,AZN,,174.0,,True,İnşaatçılar,Bakı
+6484978,295000,AZN,4,160.0,,True,Mərdəkan,Bakı
+6347322,560000,AZN,4,210.0,12,True,Nəsimi,Bakı
+6455085,127500,AZN,2,62.0,11,True,Abşeron,Xırdalan
+6452870,2000,AZN,5,180.0,,True,Mərdəkan,Bakı
+6486554,100000,AZN,5,240.0,,False,Zığ,Bakı
+5773256,2000,AZN,3,135.0,4,True,Ağ şəhər,Bakı
+6382436,954900,AZN,4,241.0,12,False,Nəsimi,Bakı
+6459582,800,AZN,3,70.0,15,True,Əhmədli,Bakı
+6478208,900,AZN,3,145.0,10,True,8-ci kilometr,Bakı
+6164714,47000,AZN,,8.0,,,Qobu,Bakı
+6453668,365000,AZN,3,92.0,15,True,Nəsimi,Bakı
+6486009,129000,AZN,6,160.0,,True,Hökməli,Bakı
+6476193,185000,AZN,3,83.0,7,True,Bakıxanov,Bakı
+6434051,288000,AZN,3,110.0,7,True,Həzi Aslanov,Bakı
+6482014,195000,AZN,2,55.0,3,True,İnşaatçılar,Bakı
+6484649,348000,AZN,,8.0,,,Bakıxanov,Bakı
+6461495,850,AZN,2,70.0,10,True,Nəsimi,Bakı
+5639405,120,AZN,3,120.0,4,True,Ağ şəhər,Bakı
+6088135,85,AZN,2,98.0,5,True,Şah İsmayıl Xətai,Bakı
+4936758,100,AZN,2,95.0,4,True,Ağ şəhər,Bakı
+6484643,87000,AZN,2,55.0,5,True,Masazır,Bakı
+6486058,850,AZN,3,125.0,16,True,Yeni Yasamal,Bakı
+6233209,1000,AZN,4,120.0,,True,Mərdəkan,Bakı
+6469762,750,AZN,2,90.0,14,True,Yeni Yasamal,Bakı
+6486022,435000,AZN,3,115.0,16,True,Şah İsmayıl Xətai,Bakı
+6335225,219000,AZN,3,85.0,3,True,Nəsimi,Bakı
+6412525,143000,AZN,2,65.0,5,True,Abşeron,Xırdalan
+6462634,330000,AZN,3,97.0,13,True,Elmlər Akademiyası,Bakı
+6476769,139000,AZN,3,75.0,,True,Abşeron,Xırdalan
+6466404,122999,AZN,1,30.0,5,True,Memar Əcəmi,Bakı
+6457495,165000,AZN,3,55.0,4,True,Memar Əcəmi,Bakı
+6393718,1200000,AZN,,115.0,,True,28 May,Bakı
+6460388,63500,AZN,,5.0,,,,Qəbələ
+6385382,195000,AZN,3,70.0,9,True,Memar Əcəmi,Bakı
+6384520,163000,AZN,2,58.0,2,True,Memar Əcəmi,Bakı
+6483928,127500,AZN,2,68.0,5,False,Əmircan,Bakı
+6450731,238000,AZN,3,88.0,8,True,İnşaatçılar,Bakı
+6410401,355000,AZN,4,123.0,9,True,Memar Əcəmi,Bakı
+6230988,189000,AZN,3,74.0,4,True,Nəsimi,Bakı
+6462109,525555,AZN,5,240.0,7,True,8-ci mikrorayon,Bakı
+6437192,450000,AZN,2,101.0,8,True,Nəriman Nərimanov,Bakı
+6481008,219000,AZN,3,96.0,10,True,Həzi Aslanov,Bakı
+6402503,119500,AZN,3,108.0,,True,Binə,Bakı
+6192602,299000,AZN,5,400.0,,False,Badamdar,Bakı
+6483571,128000,AZN,1,30.0,3,True,Neftçilər,Bakı
+6477057,137000,AZN,2,68.8,3,True,Yeni Günəşli,Bakı
+6467237,177000,AZN,4,260.0,,True,Masazır,Bakı
+6403781,520200,AZN,,280.0,,True,Biləcəri,Bakı
+6274756,67500,AZN,3,110.0,,True,Binə,Bakı
+6283897,165000,AZN,3,80.0,1,True,Köhnə Günəşli,Bakı
+6009441,279000,AZN,2,77.0,15,True,Səbail,Bakı
+6264360,950,AZN,1,44.0,3,True,Sea Breeze,Bakı
+6482486,485000,AZN,4,225.0,,True,Şüvəlan,Bakı
+6277179,115000,AZN,2,100.0,5,False,Lökbatan,Bakı
+6472980,105000,AZN,,6.0,,,Bilgəh,Bakı
+6090200,99000,AZN,,3.0,,,Mərdəkan,Bakı
+6380393,100000,AZN,1,39.0,6,False,Sea Breeze,Bakı
+6380408,97000,AZN,1,38.0,8,False,Sea Breeze,Bakı
+6433237,128000,AZN,4,120.0,,True,Binəqədi,Bakı
+6172629,750000,AZN,5,400.0,,True,Bilgəh,Bakı
+6422476,188000,AZN,3,80.0,9,True,Qaraçuxur,Bakı
+5776084,285000,AZN,1,58.0,4,True,Nardaran,Bakı
+6464155,330000,AZN,2,65.0,2,True,Sea Breeze,Bakı
+6473114,110000,AZN,1,40.0,2,False,Sea Breeze,Bakı
+6300677,395000,AZN,,12.0,,,Buzovna,Bakı
+6431818,132000,AZN,,12.0,,,Nardaran,Bakı
+5521838,720000,AZN,,44.0,,True,Nardaran,Bakı
+6447764,88500,AZN,2,57.0,3,True,Masazır,Bakı
+6447745,88500,AZN,2,54.0,2,True,Masazır,Bakı
+6477850,153000,AZN,2,55.0,5,True,İnşaatçılar,Bakı
+6183050,440000,AZN,3,105.0,14,True,Koroğlu,Bakı
+6442344,98000,AZN,2,80.8,13,False,Binəqədi,Bakı
+6438875,145000,AZN,3,94.0,11,True,Binəqədi,Bakı
+6386940,277219,AZN,2,70.9,3,False,Nardaran,Bakı
+6475750,160000,AZN,6,160.0,,True,Savalan,Bakı
+6422618,163000,AZN,1,50.0,6,False,Sea Breeze,Bakı
+6461205,129000,AZN,3,62.0,6,True,,Xırdalan
+5263470,816000,AZN,3,135.0,4,True,Sea Breeze,Bakı
+5978391,570000,AZN,6,300.0,,True,Bilgəh,Bakı
+6473069,263500,AZN,1,43.0,6,True,Sea Breeze,Bakı
+6473100,350000,AZN,2,74.0,2,True,Sea Breeze,Bakı
+6473095,360000,AZN,2,76.0,3,True,Sea Breeze,Bakı
+5407427,320000,AZN,3,140.0,17,True,Nərimanov,Bakı
+6480751,117000,AZN,2,60.0,11,False,İnşaatçılar,Bakı
+6436517,12000,AZN,,384.0,,False,Şah İsmayıl Xətai,Bakı
+6468086,67500,AZN,2,50.0,6,False,Masazır,Bakı
+6486661,400,AZN,,200.0,,True,Elmlər Akademiyası,Bakı
+6464118,115000,AZN,3,71.0,5,True,Masazır,Bakı
+6314571,365660,AZN,3,114.9,3,False,Nardaran,Bakı
+6091147,258000,AZN,3,90.0,3,True,,Sumqayıt
+6458345,115000,AZN,2,58.0,9,True,Zığ,Bakı
+6330330,221995,AZN,1,53.3,7,False,Nardaran,Bakı
+6456260,2000000,AZN,3,266.0,7,True,Sea Breeze,Bakı
+6456270,350000,AZN,2,76.0,2,True,Sea Breeze,Bakı
+6456274,350000,AZN,2,69.0,1,True,Sea Breeze,Bakı
+6456290,207000,AZN,2,64.0,3,False,Sea Breeze,Bakı
+6473919,95000,AZN,,3.0,,,Şağan,Bakı
+6393075,565000,AZN,4,170.0,3,True,Nəsimi,Bakı
+6052975,455000,AZN,6,350.0,,True,Mərdəkan,Bakı
+6373307,1250000,AZN,6,440.0,15,True,Şah İsmayıl Xətai,Bakı
+6475720,230000,AZN,2,95.0,8,False,Nardaran,Bakı
+6186818,615000,AZN,4,207.0,15,False,Nəsimi,Bakı
+6467037,395000,AZN,3,120.0,12,True,Memar Əcəmi,Bakı
+6220848,174420,AZN,1,36.0,1,True,Nardaran,Bakı
+6477783,125000,AZN,2,52.0,5,True,Badamdar,Bakı
+6483659,290000,AZN,3,90.0,3,True,Şah İsmayıl Xətai,Bakı
+6399911,490000,AZN,3,108.0,16,True,Nizami,Bakı
+6296775,679791,AZN,3,160.7,2,True,Nardaran,Bakı
+6483655,500,AZN,2,35.0,,True,Nəsimi,Bakı
+6193083,550000,AZN,6,160.0,2,True,Nəriman Nərimanov,Bakı
+6174392,300,AZN,5,340.0,,True,Novxanı,Bakı
+6222148,353658,AZN,1,48.4,7,True,Nardaran,Bakı
+6439299,260000,AZN,,4.8,,,Mərdəkan,Bakı
+6428669,260000,AZN,5,120.0,6,True,Əhmədli,Bakı
+5620441,220000,AZN,,1300.0,,False,Qızıldaş,Bakı
+6405765,277000,AZN,3,122.5,12,False,Qara Qarayev,Bakı
+6027878,384846,AZN,2,53.9,5,False,,Qusar
+6411390,198000,AZN,3,70.0,3,True,Bakıxanov,Bakı
+6027981,239292,AZN,2,61.2,12,False,Nardaran,Bakı
+6440600,728475,AZN,3,132.4,15,False,Elmlər Akademiyası,Bakı
+6312922,389000,AZN,2,98.0,1,True,Sea Breeze,Bakı
+6438371,48000,AZN,3,75.0,,True,Kürdəxanı,Bakı
+6150257,535000,AZN,5,350.0,,True,Buzovna,Bakı
+6480057,370000,AZN,3,80.0,2,True,28 May,Bakı
+5971930,287491,AZN,2,72.3,14,False,Nardaran,Bakı
+6270604,635000,AZN,3,162.0,4,False,Ağ şəhər,Bakı
+6483544,347000,AZN,3,77.0,8,True,Nəsimi,Bakı
+6406676,250000,AZN,3,100.0,4,False,Bayıl,Bakı
+6450934,210000,AZN,3,67.0,2,True,İnşaatçılar,Bakı
+4550787,792000,AZN,,264.0,,True,İçəri Şəhər,Bakı
+6452312,185000,AZN,3,63.0,5,True,Əhmədli,Bakı
+6163070,145000,AZN,3,85.0,2,True,Biləcəri,Bakı
+6431725,600000,AZN,,15.0,,,Mərdəkan,Bakı
+5676019,472464,AZN,1,57.9,6,False,Nardaran,Bakı
+6376336,1200,AZN,,150.0,,True,Bakıxanov,Bakı
+5818478,143000,AZN,4,136.0,,True,Mehdiabad,Bakı
+6279469,245000,AZN,2,47.0,5,True,28 May,Bakı
+5659944,230233,AZN,1,57.6,5,False,Nardaran,Bakı
+6461146,468000,AZN,4,156.0,18,True,8 Noyabr,Bakı
+6480498,1062000,AZN,,90.0,,True,Nərimanov,Bakı
+6450510,450000,AZN,2,81.8,9,False,Ağ şəhər,Bakı
+6483785,69900,AZN,,8.0,,,Xaçmaz,Xaçmaz
+6366432,350000,AZN,3,135.0,12,True,8-ci mikrorayon,Bakı
+5662936,285447,AZN,1,57.9,6,False,Nardaran,Bakı
+5281948,360000,AZN,4,182.0,6,True,Avtovağzal,Bakı
+6436011,380000,AZN,1,67.1,6,True,Ağ şəhər,Bakı
+6247023,135000,AZN,2,73.0,3,False,Avtovağzal,Bakı
+5444297,358658,AZN,3,84.4,13,True,Sea Breeze,Bakı
+6271339,280000,AZN,4,140.0,,True,Mərdəkan,Bakı
+5767279,150000,AZN,,100.0,,,Məmmədli,Bakı
+6466776,122000,AZN,3,92.7,4,True,,Xırdalan
+6221698,785000,AZN,4,185.0,4,True,Elmlər Akademiyası,Bakı
+6398187,335000,AZN,3,110.0,15,True,28 May,Bakı
+6211662,270000,AZN,4,140.0,,True,Şüvəlan,Bakı
+6469965,395000,AZN,5,200.0,,True,Mərdəkan,Bakı
+5591807,250614,AZN,2,81.9,4,False,Sea Breeze,Bakı
+6406713,1000,AZN,2,52.0,4,True,İçəri Şəhər,Bakı
+6433835,248880,AZN,1,61.0,5,False,Nardaran,Bakı
+5932496,240000,AZN,4,160.0,,True,Şüvəlan,Bakı
+6453680,495000,AZN,4,180.0,,True,Şüvəlan,Bakı
+5443704,231336,AZN,1,56.7,12,False,Sea Breeze,Bakı
+6425468,720000,AZN,7,170.0,,False,Nardaran,Bakı
+6423229,1450000,AZN,14,1250.0,,False,Novxanı,Bakı
+6190260,290000,AZN,4,180.0,,True,Mərdəkan,Bakı
+6461084,609000,AZN,6,420.0,,True,Bilgəh,Bakı
+6231449,229000,AZN,4,80.0,3,True,Həzi Aslanov,Bakı
+6362548,299000,AZN,3,135.0,2,True,9-cu mikrorayon,Bakı
+6256953,250000,AZN,4,160.0,,True,Şüvəlan,Bakı
+6329182,557000,AZN,4,157.0,5,False,Ağ şəhər,Bakı
+5988506,495000,AZN,3,113.0,7,True,Nizami,Bakı
+6368839,228000,AZN,2,60.0,15,True,Nərimanov,Bakı
+5436469,2200,AZN,,184.0,,True,Xətai,Bakı
+6248609,219900,AZN,2,56.7,11,False,Nəsimi,Bakı
+6477674,229500,AZN,3,80.0,3,True,Həzi Aslanov,Bakı
+6469913,495000,AZN,,200.0,,True,İçəri Şəhər,Bakı
+6071510,40000,AZN,,8.0,,,Qobu,Bakı
+6048046,256000,AZN,2,90.0,11,True,Nərimanov,Bakı
+6467021,541260,AZN,2,76.7,22,True,Nardaran,Bakı
+6461339,230000,AZN,2,96.0,11,True,20 Yanvar,Bakı
+6477661,170000,AZN,4,120.0,,True,Savalan,Bakı
+5950360,400000,AZN,4,177.5,2,False,Şah İsmayıl Xətai,Bakı
+6423373,89000,AZN,2,30.0,,True,28 May,Bakı
+5516595,326315,AZN,2,69.8,2,False,Sea Breeze,Bakı
 6429202,135000,AZN,,20.0,,,Qala,Bakı
 6458024,140000,AZN,3,69.0,6,True,,Xırdalan
 5443083,411645,AZN,2,86.5,5,False,Sea Breeze,Bakı
@@ -12,7 +477,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 5442812,274091,AZN,2,70.1,8,False,Sea Breeze,Bakı
 6322102,200,AZN,2,120.0,,True,Novxanı,Bakı
 6456081,2999999,AZN,,925.0,,False,20 Yanvar,Bakı
-6482014,195000,AZN,2,55.0,3,True,İnşaatçılar,Bakı
 5653012,1400,AZN,3,120.0,12,True,Nərimanov,Bakı
 6475555,585000,AZN,4,182.0,6,True,Nəriman Nərimanov,Bakı
 6172543,1180000,AZN,6,330.0,,True,Mərdəkan,Bakı
@@ -21,70 +485,46 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6177412,163625,AZN,1,55.0,1,False,Nardaran,Bakı
 6466986,169000,AZN,2,70.0,5,True,Badamdar,Bakı
 6468759,1200,AZN,3,110.0,13,True,Nizami,Bakı
-6484649,348000,AZN,,8.0,,,Bakıxanov,Bakı
 6475560,256000,AZN,5,165.0,,True,Buzovna,Bakı
-6461495,850,AZN,2,70.0,10,True,Nəsimi,Bakı
-6433422,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
 6389661,750000,AZN,,290.0,,True,Neftçilər,Bakı
 6361074,300,AZN,7,400.0,,True,Mərdəkan,Bakı
 6080357,596700,AZN,3,135.0,1,True,Nardaran,Bakı
 6450829,590000,AZN,4,185.0,7,True,Nəriman Nərimanov,Bakı
-6480660,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
-6475717,4000,AZN,,250.0,,True,Nəriman Nərimanov,Bakı
 5453887,475000,AZN,5,220.0,,True,Qaraçuxur,Bakı
 6323763,255000,AZN,4,92.0,11,True,Həzi Aslanov,Bakı
 6483462,1200000,AZN,,140.0,,True,Sahil,Bakı
 5600109,262642,AZN,1,58.3,6,False,Sea Breeze,Bakı
 6466966,750000,AZN,4,148.6,2,True,Ağ şəhər,Bakı
-6484643,87000,AZN,2,55.0,5,True,Masazır,Bakı
-6486058,850,AZN,3,125.0,16,True,Yeni Yasamal,Bakı
 6399616,310000,AZN,4,110.0,16,True,Binəqədi,Bakı
 6184076,800,AZN,4,140.0,12,True,Abşeron,Sumqayıt
-6233209,1000,AZN,4,120.0,,True,Mərdəkan,Bakı
 6425352,1300000,AZN,,15.9,,,Masazır,Bakı
-6386543,715000,AZN,4,160.0,10,True,Nizami,Bakı
 6243168,198000,AZN,3,117.0,5,True,,Xırdalan
-6411794,565000,AZN,3,120.0,7,True,Nizami,Bakı
 6348591,113900,AZN,2,51.0,11,False,Neftçilər,Bakı
 6451986,165000,AZN,2,71.4,8,True,Əmircan,Bakı
 6453598,395000,AZN,3,105.0,18,True,Nəriman Nərimanov,Bakı
 5921691,299500,AZN,1,60.0,,True,Nardaran,Bakı
-6469762,750,AZN,2,90.0,14,True,Yeni Yasamal,Bakı
-6464305,850000,AZN,8,390.0,,False,Sea Breeze,Bakı
 4172542,470000,AZN,,10.0,,,Şağan,Bakı
 4502351,663935,AZN,2,107.0,6,True,Nardaran,Bakı
-6486022,435000,AZN,3,115.0,16,True,Şah İsmayıl Xətai,Bakı
 6069832,155000,AZN,2,62.0,16,True,Neftçilər,Bakı
 6255201,369000,AZN,3,118.0,15,False,28 May,Bakı
-6319499,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
 6476641,220000,AZN,2,78.0,12,True,Neftçilər,Bakı
-6450945,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
 6467136,595000,AZN,4,180.0,,True,Mərdəkan,Bakı
-6335225,219000,AZN,3,85.0,3,True,Nəsimi,Bakı
-6445187,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
 6283751,1700,AZN,2,110.0,10,True,28 May,Bakı
 6310873,1700,AZN,,75.0,,True,Ağ şəhər,Bakı
 6335393,439000,AZN,5,172.0,,True,Şüvəlan,Bakı
-6366432,350000,AZN,3,135.0,12,True,8-ci mikrorayon,Bakı
 6486182,240000,AZN,3,120.0,5,True,,Xırdalan
 6445106,700000,AZN,,201.0,,True,Yeni Yasamal,Bakı
-6461236,450000,AZN,2,100.0,8,True,Nəriman Nərimanov,Bakı
 6428619,280000,AZN,7,300.0,,True,Hövsan,Bakı
 5501305,513528,AZN,3,140.5,4,False,Sea Breeze,Bakı
-6462634,330000,AZN,3,97.0,13,True,Elmlər Akademiyası,Bakı
 4237623,543730,AZN,2,98.86,15,False,Elmlər Akademiyası,Bakı
 6326509,1188715,AZN,4,216.1,15,False,Elmlər Akademiyası,Bakı
 5867067,812900,AZN,4,147.8,16,False,Elmlər Akademiyası,Bakı
 6200267,350000,AZN,,250.0,,False,Gənclik,Bakı
 6450644,155000,AZN,3,90.0,13,True,Masazır,Bakı
 4190770,1128215,AZN,4,205.13,15,False,Elmlər Akademiyası,Bakı
-6476769,139000,AZN,3,75.0,,True,Abşeron,Xırdalan
 4452982,318325,AZN,1,53.5,5,False,Nardaran,Bakı
-6466404,122999,AZN,1,30.0,5,True,Memar Əcəmi,Bakı
-6457495,165000,AZN,3,55.0,4,True,Memar Əcəmi,Bakı
 6167930,690000,AZN,7,500.0,,True,Novxanı,Bakı
 5936849,177000,AZN,1,60.0,12,False,Nardaran,Bakı
-4989746,250,AZN,7,300.0,,True,Şüvəlan,Bakı
 5555412,405977,AZN,2,91.9,2,True,Sea Breeze,Bakı
 6472772,2200,AZN,5,245.0,14,True,Nəsimi,Bakı
 6422300,258000,AZN,2,58.0,13,True,Nərimanov,Bakı
@@ -92,38 +532,23 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6398225,99,AZN,3,122.0,,True,Pirşağı,Bakı
 6456991,210000,AZN,2,84.0,2,False,Şıxov,Bakı
 6422293,358000,AZN,3,88.0,13,True,Nərimanov,Bakı
-6208406,276000,AZN,3,125.4,4,False,Şıxov,Bakı
+6208406,282000,AZN,3,125.4,4,False,Şıxov,Bakı
 6286163,54000,AZN,3,90.0,,True,Məmmədli,Bakı
-6393718,1200000,AZN,,115.0,,True,28 May,Bakı
-6347322,560000,AZN,4,210.0,12,True,Nəsimi,Bakı
 6439458,210000,AZN,3,75.0,5,True,Gənclik,Bakı
-6460388,63500,AZN,,5.0,,,,Qəbələ
 6147518,55000,AZN,3,90.0,,True,Binə,Bakı
 4965982,285147,AZN,3,96.6,10,False,Dərnəgül,Bakı
 4967088,236168,AZN,2,89.1,8,False,Dərnəgül,Bakı
 4967576,331920,AZN,3,138.3,4,False,Dərnəgül,Bakı
 6476055,1100000,AZN,4,205.0,7,True,Nəsimi,Bakı
-6385382,195000,AZN,3,70.0,9,True,Memar Əcəmi,Bakı
 5998829,538000,AZN,9,545.0,,False,Şıxov,Bakı
-6384520,163000,AZN,2,58.0,2,True,Memar Əcəmi,Bakı
 6439162,4000,AZN,,250.0,,True,Nəriman Nərimanov,Bakı
-6383069,369500,AZN,3,86.6,2,True,Sea Breeze,Bakı
-6483928,127500,AZN,2,68.0,5,False,Əmircan,Bakı
 6480984,386000,AZN,3,127.0,4,True,Memar Əcəmi,Bakı
 6405793,219000,AZN,3,85.0,18,True,Yeni Yasamal,Bakı
 6460911,310000,AZN,3,94.0,5,True,Nərimanov,Bakı
-6450731,238000,AZN,3,88.0,8,True,İnşaatçılar,Bakı
 6486222,920000,AZN,4,165.0,3,True,Ağ şəhər,Bakı
-6457609,155000,AZN,,5.5,,,Fatmayı,Bakı
-6483063,124000,AZN,2,30.0,4,True,Memar Əcəmi,Bakı
 6446186,444000,AZN,2,82.0,11,False,Ağ şəhər,Bakı
-6410401,355000,AZN,4,123.0,9,True,Memar Əcəmi,Bakı
-6230988,189000,AZN,3,74.0,4,True,Nəsimi,Bakı
 6477852,144500,AZN,2,50.0,4,True,Avtovağzal,Bakı
-6462109,525555,AZN,5,240.0,7,True,8-ci mikrorayon,Bakı
-6441937,4000,AZN,,250.0,,True,Nəriman Nərimanov,Bakı
 6415154,820000,AZN,4,400.0,,True,Şüvəlan,Bakı
-6437192,450000,AZN,2,101.0,8,True,Nəriman Nərimanov,Bakı
 6066614,120000,AZN,4,120.0,,True,Fatmayı,Bakı
 6436310,310000,AZN,2,85.5,15,True,Nərimanov,Bakı
 6422061,288000,AZN,2,72.0,10,False,Nizami,Bakı
@@ -137,14 +562,12 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6409214,538000,AZN,4,177.9,4,False,Gənclik,Bakı
 6048404,1800,AZN,4,129.0,15,True,Bakmil,Bakı
 6447690,210000,AZN,2,54.0,5,True,Böyükşor,Bakı
-6481008,219000,AZN,3,96.0,10,True,Həzi Aslanov,Bakı
 6385028,630000,AZN,4,220.0,2,True,Nərimanov,Bakı
 6462242,118000,AZN,1,40.0,2,True,8 Noyabr,Bakı
 6405099,452064,AZN,3,110.8,8,False,Nardaran,Bakı
 6213319,242000,AZN,3,102.5,17,True,Badamdar,Bakı
-6402503,119500,AZN,3,108.0,,True,Binə,Bakı
 6460084,479000,AZN,3,160.0,12,True,Şah İsmayıl Xətai,Bakı
-6483291,1400,AZN,2,68.0,6,True,Nəsimi,Bakı
+6483291,1300,AZN,2,70.0,6,True,Nəsimi,Bakı
 6414988,285000,AZN,5,180.0,,True,Fatmayı,Bakı
 6407894,69000,AZN,,5.0,,,Dübəndi,Bakı
 6483593,500,AZN,2,78.0,8,True,Abşeron,Xırdalan
@@ -152,7 +575,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6458147,55000,AZN,3,75.0,,True,Sabunçu,Bakı
 6452231,210000,AZN,3,90.0,6,True,20 Yanvar,Bakı
 6339960,280000,AZN,3,130.0,3,False,İnşaatçılar,Bakı
-6483571,128000,AZN,1,30.0,3,True,Neftçilər,Bakı
 6073522,275000,AZN,3,105.0,3,True,20 Yanvar,Bakı
 6460842,280000,AZN,5,148.0,,True,Şüvəlan,Bakı
 6089658,297000,AZN,3,100.0,6,True,Dərnəgül,Bakı
@@ -162,20 +584,16 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 5932357,225000,AZN,4,150.0,,True,Mərdəkan,Bakı
 6426543,685000,AZN,4,240.0,11,True,Nərimanov,Bakı
 6220831,306694,AZN,2,59.2,9,False,Nardaran,Bakı
-6477057,137000,AZN,2,68.8,3,True,Yeni Günəşli,Bakı
 6386319,185000,AZN,6,210.0,,True,Hövsan,Bakı
-6444730,420000,AZN,3,161.0,3,True,Nəriman Nərimanov,Bakı
 5940513,420000,AZN,5,250.0,,True,Şüvəlan,Bakı
-6455968,230000,AZN,2,68.7,8,True,8 Noyabr,Bakı
 6463573,225000,AZN,4,135.0,,True,Şüvəlan,Bakı
 6478857,234500,AZN,2,75.0,6,True,İçəri Şəhər,Bakı
-6304931,1800,AZN,2,64.0,,True,Nizami,Bakı
+6304931,1850,AZN,2,64.0,,True,Nizami,Bakı
 6288431,649000,AZN,9,420.0,,True,Badamdar,Bakı
 5909818,259000,AZN,3,96.0,6,False,Nərimanov,Bakı
-6454889,1800,AZN,,64.0,,True,Nizami,Bakı
+6454889,1850,AZN,,64.0,,True,Nizami,Bakı
 6475210,290000,AZN,3,160.0,4,True,20 Yanvar,Bakı
 6350667,25,AZN,3,60.0,1,True,Masazır,Bakı
-5919335,143000,AZN,2,67.0,9,False,Həzi Aslanov,Bakı
 6459652,530000,AZN,3,138.0,12,True,Nəsimi,Bakı
 6387334,275000,AZN,3,145.0,1,False,Xətai,Bakı
 6456913,120000,AZN,1,40.0,2,True,8 Noyabr,Bakı
@@ -192,7 +610,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6463593,132000,AZN,3,240.0,23,False,Bakıxanov,Bakı
 6481621,219500,AZN,3,89.0,12,True,Avtovağzal,Bakı
 6483122,2000,AZN,,105.0,,True,Həzi Aslanov,Bakı
-6485118,600000,AZN,2,110.0,6,True,İçəri Şəhər,Bakı
 6453148,199000,AZN,2,59.0,5,True,20 Yanvar,Bakı
 6408985,580000,AZN,6,380.0,,True,Mərdəkan,Bakı
 6392645,217056,AZN,1,53.2,12,False,Nardaran,Bakı
@@ -201,30 +618,23 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6475303,327000,AZN,3,126.0,7,False,Koroğlu,Bakı
 6459342,234000,AZN,3,63.0,16,True,İnşaatçılar,Bakı
 6452347,248000,AZN,4,145.0,,True,Mərdəkan,Bakı
-5281948,360000,AZN,4,182.0,6,True,Avtovağzal,Bakı
-6483482,138000,AZN,,7.0,,,Şıxov,Bakı
 5706748,1350,AZN,3,135.0,8,True,Şah İsmayıl Xətai,Bakı
 6395010,395000,AZN,3,123.5,5,False,7-ci mikrorayon,Bakı
 6031309,350000,AZN,,110.0,,True,8 Noyabr,Bakı
 6170668,650000,AZN,4,200.0,,True,Şağan,Bakı
 6477206,630,AZN,1,47.0,1,True,Nəsimi,Bakı
-5025030,750,AZN,3,130.0,,True,Novxanı,Bakı
-6148675,270000,AZN,3,101.0,11,True,Nəriman Nərimanov,Bakı
 6461978,1300000,AZN,7,300.0,,True,Badamdar,Bakı
 6483076,260000,AZN,2,95.0,13,True,Qara Qarayev,Bakı
 6438220,245000,AZN,3,82.0,2,True,Nəriman Nərimanov,Bakı
 6462527,160000,AZN,3,60.0,,True,Dübəndi,Bakı
 6405089,257312,AZN,1,68.8,4,False,Nardaran,Bakı
 6476571,68000,AZN,2,37.0,1,True,Masazır,Bakı
-6477099,263000,AZN,2,83.0,14,True,Dərnəgül,Bakı
-6476476,310000,AZN,3,95.0,12,True,İnşaatçılar,Bakı
 6421877,405000,AZN,,1200.0,,False,Nabran,Xaçmaz
 6363733,180000,AZN,2,56.9,9,True,20 Yanvar,Bakı
 6425031,188000,AZN,2,45.0,2,True,Elmlər Akademiyası,Bakı
 6087010,1600000,AZN,,136.0,,True,28 May,Bakı
 6314560,358070,AZN,3,99.4,5,False,Nardaran,Bakı
 6463479,595000,AZN,5,150.0,,True,Şağan,Bakı
-6479901,165000,AZN,2,70.0,4,True,Yeni Yasamal,Bakı
 5785201,380000,AZN,4,130.0,,True,Mərdəkan,Bakı
 6371352,227000,AZN,2,54.0,3,True,İçəri Şəhər,Bakı
 6244815,1799,AZN,5,220.0,10,True,Elmlər Akademiyası,Bakı
@@ -232,14 +642,9 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6443749,58000,AZN,,2.0,,,Mərdəkan,Bakı
 6474484,210000,AZN,2,85.0,5,True,Badamdar,Bakı
 6399985,87000,AZN,3,100.0,,True,Savalan,Bakı
-6409548,64000,AZN,2,53.0,,True,Sabunçu,Bakı
 6483041,395000,AZN,3,90.0,7,True,Nərimanov,Bakı
-6484996,215000,AZN,4,160.0,,True,Şüvəlan,Bakı
 6389783,149000,AZN,,160.0,,True,Əhmədli,Bakı
 6451843,164000,AZN,2,65.0,7,True,Əhmədli,Bakı
-6478430,800,AZN,3,123.0,4,True,Memar Əcəmi,Bakı
-6483011,520000,AZN,3,125.0,20,True,Şah İsmayıl Xətai,Bakı
-6268026,5000000,AZN,10,500.0,,True,Bilgəh,Bakı
 5810128,2800,AZN,4,200.0,18,True,28 May,Bakı
 5403613,1500,AZN,3,100.0,3,True,Nardaran,Bakı
 6463426,390000,AZN,4,160.0,,True,Şüvəlan,Bakı
@@ -264,12 +669,11 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6267893,220000,AZN,2,80.0,17,True,Azadlıq Prospekti,Bakı
 5673384,260000,AZN,2,65.0,23,True,8 Noyabr,Bakı
 6412320,189000,AZN,,11.7,,,Sea Breeze,Bakı
-6161586,310000,AZN,7,178.9,,True,Azadlıq Prospekti,Bakı
+6161586,295000,AZN,7,178.9,,True,Azadlıq Prospekti,Bakı
 6209540,266000,AZN,3,110.0,12,True,Həzi Aslanov,Bakı
 6403078,278000,AZN,3,93.0,5,True,20 Yanvar,Bakı
 6297172,355501,AZN,1,46.8,3,True,Nardaran,Bakı
 6432232,850000,AZN,6,430.0,,True,Əhmədli,Bakı
-6360306,250000,AZN,5,120.0,8,True,Xalqlar Dostluğu,Bakı
 6303152,595000,AZN,4,200.0,,True,Şüvəlan,Bakı
 6437281,187500,AZN,2,74.4,9,False,Bakıxanov,Bakı
 5625392,289000,AZN,2,73.0,16,True,Koroğlu,Bakı
@@ -306,7 +710,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6450120,280000,AZN,,8.5,,,Şıxov,Bakı
 6477114,170,AZN,3,120.0,4,True,28 May,Bakı
 6423662,850,AZN,3,52.0,,True,Koroğlu,Bakı
-6473276,600,AZN,2,50.0,5,True,Bakıxanov,Bakı
 6473038,429000,AZN,3,145.0,14,True,28 May,Bakı
 5810204,472000,AZN,3,110.0,7,False,Elmlər Akademiyası,Bakı
 6413533,650000,AZN,4,180.0,17,False,28 May,Bakı
@@ -323,7 +726,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 5863093,159222,AZN,1,44.6,3,True,Nardaran,Bakı
 6474977,157000,AZN,2,60.0,9,True,Həzi Aslanov,Bakı
 6340113,1500,AZN,3,120.0,14,True,Şah İsmayıl Xətai,Bakı
-6485805,1000,AZN,2,70.0,,True,Nərimanov,Bakı
 4693067,830000,AZN,5,460.0,,True,Mərdəkan,Bakı
 4966002,287375,AZN,3,114.9,4,False,Dərnəgül,Bakı
 4965055,299950,AZN,3,119.9,4,,Dərnəgül,Bakı
@@ -343,7 +745,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6410882,585000,AZN,,130.0,,True,Nizami,Bakı
 6447167,420000,AZN,3,103.0,6,True,8 Noyabr,Bakı
 6463063,3400000,AZN,10,800.0,,True,Bilgəh,Bakı
-6403616,168000,AZN,,6.0,,,Sea Breeze,Bakı
 6479821,425000,AZN,2,105.0,16,True,Gənclik,Bakı
 6236821,40000,AZN,3,60.0,,True,Lökbatan,Bakı
 6472029,165000,AZN,2,71.4,8,True,Əmircan,Bakı
@@ -351,7 +752,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6396102,226000,AZN,2,92.0,12,True,Neftçilər,Bakı
 6310625,330000,AZN,3,125.0,14,True,Qara Qarayev,Bakı
 6466226,158000,AZN,3,65.0,6,True,Memar Əcəmi,Bakı
-6467203,400,AZN,2,60.0,9,True,,Xırdalan
 6447796,110000,AZN,1,38.0,1,True,Memar Əcəmi,Bakı
 6422687,430000,AZN,3,108.0,4,True,28 May,Bakı
 6439523,189000,AZN,3,75.0,4,True,Memar Əcəmi,Bakı
@@ -360,7 +760,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6388659,215000,AZN,3,101.0,4,True,Xətai,Bakı
 6120458,360000,AZN,,3.0,,,Nəsimi,Bakı
 6399777,240000,AZN,3,75.0,2,True,Memar Əcəmi,Bakı
-5902710,190000,AZN,3,95.0,3,True,Lökbatan,Bakı
 6101209,460000,AZN,,18.5,,,Mərdəkan,Bakı
 6106671,140000,AZN,,9.0,,,Görədil,Bakı
 6313135,765000,AZN,7,250.0,,True,Nizami,Bakı
@@ -389,12 +788,9 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6427377,250,AZN,3,100.0,,True,Novxanı,Bakı
 6098513,255000,AZN,2,91.9,5,False,Abşeron,Bakı
 6482605,263000,AZN,2,59.0,3,True,Bakmil,Bakı
-6456310,200,AZN,2,120.0,2,True,8 Noyabr,Bakı
 6206411,195000,AZN,1,57.4,4,False,Nardaran,Bakı
 6454711,1300000,AZN,,510.0,,True,Qaraçuxur,Bakı
 6350458,299000,AZN,12,500.0,,False,Mehdiabad,Bakı
-6368426,229000,AZN,2,58.0,6,True,Sea Breeze,Bakı
-4897668,990000,AZN,12,500.0,,False,Sahil,Bakı
 3740327,282596,AZN,2,91.16,7,False,Nərimanov,Bakı
 3740381,661440,AZN,5,206.65,12,False,Nərimanov,Bakı
 3740372,397760,AZN,3,124.3,12,False,Nərimanov,Bakı
@@ -431,24 +827,18 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6452746,355000,AZN,3,120.0,2,True,İnşaatçılar,Bakı
 6434539,510000,AZN,3,125.0,19,True,Şah İsmayıl Xətai,Bakı
 5514359,496407,AZN,2,78.9,1,True,Sea Breeze,Bakı
-6482486,485000,AZN,4,225.0,,True,Şüvəlan,Bakı
 6474757,550000,AZN,3,175.0,14,False,Nizami,Bakı
 6400890,299000,AZN,3,72.0,18,True,Bakmil,Bakı
 6294298,257000,AZN,2,100.0,12,True,20 Yanvar,Bakı
 5515435,275000,AZN,4,148.5,1,False,Həzi Aslanov,Bakı
 6339775,575000,AZN,2,93.0,5,True,Sea Breeze,Bakı
-6477914,204000,AZN,2,59.0,17,True,Nəriman Nərimanov,Bakı
 5442827,243474,AZN,2,68.2,2,False,Sea Breeze,Bakı
-6450580,249000,AZN,5,150.0,,True,Savalan,Bakı
 6446916,268000,AZN,2,90.0,15,True,Əhmədli,Bakı
-6470144,139000,AZN,8,330.0,,True,Zirə,Bakı
 4816583,1901939,AZN,4,266.4,4,False,Bayıl,Bakı
-6221698,785000,AZN,4,185.0,4,True,Elmlər Akademiyası,Bakı
 6257973,450000,AZN,5,300.0,,True,Novxanı,Bakı
 5877292,252000,AZN,2,92.0,19,True,Nəriman Nərimanov,Bakı
 6457490,70000,AZN,2,58.0,,True,Masazır,Bakı
 6449777,161690,AZN,3,87.4,2,False,Biləcəri,Bakı
-6419810,25500,AZN,,7.0,,,,Xızı
 6425579,310000,AZN,3,90.0,7,True,Həzi Aslanov,Bakı
 5534371,200634,AZN,1,56.2,9,False,Sea Breeze,Bakı
 6097066,315000,AZN,4,185.0,14,False,Əhmədli,Bakı
@@ -458,8 +848,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6430086,890000,AZN,6,340.0,,True,Badamdar,Bakı
 6432514,239000,AZN,1,49.8,1,False,Sea Breeze,Bakı
 6467540,195000,AZN,2,70.0,13,True,Nəriman Nərimanov,Bakı
-6482681,1950,AZN,3,150.0,22,True,8 Noyabr,Bakı
-6053117,1700000,AZN,,1000.0,,True,Novxanı,Bakı
 5504148,376533,AZN,2,96.3,3,False,Sea Breeze,Bakı
 6433434,1500,AZN,4,100.0,14,True,Nəsimi,Bakı
 6330912,635000,AZN,3,125.0,19,True,Şah İsmayıl Xətai,Bakı
@@ -481,14 +869,13 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 5489871,314500,AZN,1,58.0,4,True,Sea Breeze,Bakı
 6325502,310000,AZN,3,105.0,8,True,Neftçilər,Bakı
 4513531,698683,AZN,2,112.6,6,True,Nardaran,Bakı
-6457416,850000,AZN,7,531.3,,True,,Şamaxı
+6457416,650000,AZN,7,531.3,,True,,Şamaxı
 6441023,325000,AZN,,25.0,,,Nardaran,Bakı
 6427080,3600000,AZN,,20.0,,,Bakıxanov,Bakı
 5646854,896719,AZN,3,184.5,4,True,Şah İsmayıl Xətai,Bakı
 5646676,535919,AZN,2,97.2,4,True,Şah İsmayıl Xətai,Bakı
 6457192,197000,AZN,2,60.0,3,True,Əhmədli,Bakı
 5981885,155000,AZN,1,57.0,1,False,Sea Breeze,Bakı
-6345593,95000,AZN,1,55.0,10,False,Binəqədi,Bakı
 5981972,347500,AZN,2,102.0,3,True,Sea Breeze,Bakı
 6251851,580000,AZN,3,141.0,4,True,Sea Breeze,Bakı
 5540301,398055,AZN,3,111.5,2,False,Sea Breeze,Bakı
@@ -498,7 +885,7 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 5868015,2300,AZN,9,400.0,,True,Xətai,Bakı
 5552025,487050,AZN,2,124.6,2,False,Sea Breeze,Bakı
 6246369,345000,AZN,4,160.0,17,True,Həzi Aslanov,Bakı
-6288126,2500,AZN,,100.0,,True,Elmlər Akademiyası,Bakı
+6288126,2700,AZN,,100.0,,True,Elmlər Akademiyası,Bakı
 6323513,450000,AZN,3,130.0,6,True,Nəriman Nərimanov,Bakı
 6129603,360000,AZN,2,111.0,4,False,28 May,Bakı
 6454908,84500,AZN,2,51.0,11,True,Abşeron,Xırdalan
@@ -514,9 +901,7 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6468230,385000,AZN,3,125.0,11,True,Şah İsmayıl Xətai,Bakı
 5981017,290000,AZN,3,136.0,9,True,Əhmədli,Bakı
 6107662,320000,AZN,,84.0,,True,Əhmədli,Bakı
-6458345,115000,AZN,2,58.0,9,True,Zığ,Bakı
 6432631,4500,AZN,3,140.0,6,True,Nəsimi,Bakı
-6457185,130000,AZN,6,220.0,,True,Hövsan,Bakı
 6413787,237000,AZN,1,58.0,6,True,Sea Breeze,Bakı
 5993049,2200,AZN,,100.0,,True,Şah İsmayıl Xətai,Bakı
 6413803,331500,AZN,2,93.0,5,False,Sea Breeze,Bakı
@@ -529,7 +914,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6125624,119325,AZN,1,64.5,5,False,,Gəncə
 6125284,114380,AZN,1,60.4,14,False,,Gəncə
 6125300,120250,AZN,1,65.0,8,False,,Gəncə
-6223078,310000,AZN,3,144.0,5,False,28 May,Bakı
 6125531,200160,AZN,3,111.2,4,False,,Gəncə
 6476822,210000,AZN,3,63.0,5,True,Nəriman Nərimanov,Bakı
 6461032,120000,AZN,,12.0,,,Görədil,Bakı
@@ -538,18 +922,15 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6462595,470000,AZN,3,160.0,3,True,Nəsimi,Bakı
 6125327,200540,AZN,3,108.4,7,False,,Gəncə
 6183693,1200,AZN,5,100.0,,True,Bakmil,Bakı
-6458089,239000,AZN,3,90.0,4,True,Əhmədli,Bakı
 6415319,150000,AZN,3,120.0,,True,,Quba
 6478679,80000,AZN,2,57.0,5,True,Masazır,Bakı
 6482060,76000,AZN,2,40.0,3,True,Masazır,Bakı
 6405082,260678,AZN,1,69.7,4,False,Nardaran,Bakı
 6479361,99,AZN,4,200.0,,True,Mərdəkan,Bakı
-6464483,278280,AZN,3,77.3,15,True,20 Yanvar,Bakı
 3776665,331200,AZN,3,110.4,1,True,20 Yanvar,Bakı
 5893873,339624,AZN,3,106.8,3,True,20 Yanvar,Bakı
 4695792,480200,AZN,4,171.5,20,False,Nərimanov,Bakı
 6149587,3000,AZN,8,300.0,,True,Bakmil,Bakı
-6419742,494784,AZN,4,154.6,6,False,Badamdar,Bakı
 6482193,247000,AZN,2,85.0,15,True,Dərnəgül,Bakı
 6367161,457888,AZN,3,135.5,11,False,Badamdar,Bakı
 6373124,338474,AZN,2,107.1,3,False,Badamdar,Bakı
@@ -571,7 +952,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6278390,125000,AZN,4,125.0,,True,Zabrat,Bakı
 6431601,130000,AZN,2,43.0,8,True,Memar Əcəmi,Bakı
 6243109,155000,AZN,5,250.0,,True,Mərdəkan,Bakı
-6447691,275000,AZN,2,85.0,9,True,Qara Qarayev,Bakı
 6318801,261018,AZN,2,49.5,5,False,Nardaran,Bakı
 6455103,470000,AZN,,250.0,,True,İçəri Şəhər,Bakı
 6410989,375000,AZN,3,110.0,12,True,Elmlər Akademiyası,Bakı
@@ -584,7 +964,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6439731,2000000,AZN,,250.0,,True,Elmlər Akademiyası,Bakı
 6289192,595000,AZN,,79.0,,False,Nizami,Bakı
 6289194,1350000,AZN,,177.5,,False,Nizami,Bakı
-6384284,315000,AZN,3,110.0,17,True,Qara Qarayev,Bakı
 6289200,750000,AZN,,98.5,,False,Nizami,Bakı
 6312405,1250000,AZN,,115.0,,True,Sahil,Bakı
 6041145,1800000,AZN,,320.0,,True,Nizami,Bakı
@@ -595,13 +974,12 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6365513,135000,AZN,3,85.0,,True,Qala,Bakı
 6124286,455000,AZN,5,270.0,,True,Mərdəkan,Bakı
 5921281,880,AZN,1,45.0,,True,İçəri Şəhər,Bakı
-6479604,720,AZN,2,70.0,13,True,Həzi Aslanov,Bakı
 6432086,3200000,AZN,,5325.0,,,,Ağdaş
 6252912,480000,AZN,,24.0,,,,Qusar
 5814266,178000,AZN,,110.0,,True,20-ci sahə,Bakı
 6219766,438793,AZN,2,68.8,8,True,Nardaran,Bakı
 6062253,275000,AZN,1,46.0,7,True,Sea Breeze,Bakı
-6410949,89900,AZN,2,50.0,8,True,Abşeron,Xırdalan
+6410949,87900,AZN,2,50.0,8,True,Abşeron,Xırdalan
 6390712,585000,AZN,5,220.0,,True,Mərdəkan,Bakı
 5960599,750000,AZN,5,300.0,,True,Mərdəkan,Bakı
 5835722,590000,AZN,4,250.0,,True,Mərdəkan,Bakı
@@ -626,11 +1004,9 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6440726,88000,AZN,,12.0,,,Albalılıq,Bakı
 6382752,72700,AZN,2,41.0,2,True,Masazır,Bakı
 6382661,84790,AZN,2,48.7,3,True,Masazır,Bakı
-6474629,255000,AZN,,174.0,,True,İnşaatçılar,Bakı
 6315276,175000,AZN,2,55.0,13,True,Əhmədli,Bakı
 6315231,220000,AZN,2,74.0,16,True,Nərimanov,Bakı
 6483315,878000,AZN,5,231.0,3,False,Ağ şəhər,Bakı
-6484978,295000,AZN,4,160.0,,True,Mərdəkan,Bakı
 6027907,481950,AZN,3,67.5,5,False,,Qusar
 6338336,359000,AZN,2,117.2,7,True,Koroğlu,Bakı
 6258933,35000,AZN,,40.0,,True,Lökbatan,Bakı
@@ -658,12 +1034,10 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 4840140,3799950,AZN,,690.9,,False,Şah İsmayıl Xətai,Bakı
 6439934,220000,AZN,3,74.0,5,True,Yasamal,Bakı
 6106492,352400,AZN,3,106.8,14,True,20 Yanvar,Bakı
-6480790,195000,AZN,3,80.0,5,True,Həzi Aslanov,Bakı
 6330831,245000,AZN,2,98.0,6,True,İnşaatçılar,Bakı
 6431984,514080,AZN,2,112.0,2,False,Nardaran,Bakı
 6267664,6000,AZN,,240.0,,True,Nərimanov,Bakı
 5721807,563652,AZN,1,61.4,7,False,Nardaran,Bakı
-6483546,258000,AZN,3,140.0,5,False,Əhmədli,Bakı
 6420737,1150,AZN,2,87.4,2,True,Badamdar,Bakı
 6438033,445000,AZN,3,108.0,3,True,Sahil,Bakı
 6471250,257000,AZN,2,59.0,6,True,Bakmil,Bakı
@@ -671,14 +1045,10 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6287002,210000,AZN,,1000.0,,True,Türkan,Bakı
 6454872,158000,AZN,2,68.0,15,True,Yeni Yasamal,Bakı
 5660026,398081,AZN,1,69.9,5,False,Nardaran,Bakı
-5773256,2000,AZN,3,135.0,4,True,Ağ şəhər,Bakı
 6475769,266000,AZN,3,120.0,16,True,İnşaatçılar,Bakı
 6461827,149000,AZN,4,120.0,5,True,,Xırdalan
 5657212,338564,AZN,2,78.1,2,False,Nardaran,Bakı
-6382436,954900,AZN,4,241.0,12,False,Nəsimi,Bakı
-6459582,800,AZN,3,70.0,15,True,Əhmədli,Bakı
 6448372,285000,AZN,3,140.0,18,True,Sabunçu,Bakı
-6478208,900,AZN,3,145.0,10,True,8-ci kilometr,Bakı
 5444207,414596,AZN,3,87.1,11,True,Sea Breeze,Bakı
 6329479,159900,AZN,4,145.0,,True,Yeni Ramana,Bakı
 6449124,159900,AZN,4,145.0,,True,Yeni Ramana,Bakı
@@ -707,25 +1077,21 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6398928,227000,AZN,3,98.7,5,False,Bakıxanov,Bakı
 6267950,2400,AZN,,120.0,,True,Nərimanov,Bakı
 5443767,269748,AZN,1,57.7,18,False,Sea Breeze,Bakı
-6453668,365000,AZN,3,92.0,15,True,Nəsimi,Bakı
 6471952,190000,AZN,4,90.0,,True,Novxanı,Bakı
 4362132,686443,AZN,3,103.9,8,True,Ağ şəhər,Bakı
 4586280,661063,AZN,3,104.3,7,True,Ağ şəhər,Bakı
 6478273,175000,AZN,3,68.0,6,True,Yeni Günəşli,Bakı
 5516767,394944,AZN,2,70.4,7,False,Sea Breeze,Bakı
-6476193,185000,AZN,3,83.0,7,True,Bakıxanov,Bakı
 6292106,122000,AZN,2,55.0,3,True,,Xırdalan
 6465247,9832,AZN,,1229.0,,True,Nərimanov,Bakı
 6361615,160000,AZN,3,76.0,4,True,Bakıxanov,Bakı
 6478926,420000,AZN,4,118.0,,True,Mərdəkan,Bakı
 6426179,490000,AZN,7,170.0,,False,Nardaran,Bakı
-6470972,500,AZN,2,47.0,8,True,Yeni Günəşli,Bakı
 6471134,427000,AZN,3,106.7,2,True,Bakmil,Bakı
 6425911,250000,AZN,,12.0,,,Nardaran,Bakı
 6412147,50,AZN,2,95.0,18,True,Nərimanov,Bakı
 6125777,330000,AZN,3,133.0,11,True,Sabunçu,Bakı
 6432833,2400,AZN,3,119.0,19,True,Şah İsmayıl Xətai,Bakı
-6434051,288000,AZN,3,110.0,7,True,Həzi Aslanov,Bakı
 5801307,268000,AZN,4,160.0,,True,Şüvəlan,Bakı
 6481770,1100000,AZN,,30.0,,,M.Ə.Rəsulzadə,Bakı
 6385898,565000,AZN,3,157.0,14,False,Ağ şəhər,Bakı
@@ -751,7 +1117,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6201530,425000,AZN,3,129.0,12,False,Nərimanov,Bakı
 6147926,655000,AZN,4,198.0,6,True,28 May,Bakı
 5504076,467432,AZN,2,98.2,1,True,Sea Breeze,Bakı
-6429468,270000,AZN,3,83.0,12,True,Yasamal,Bakı
 5934247,570000,AZN,6,375.6,,True,Şağan,Bakı
 6440367,740000,AZN,4,194.0,13,False,Nəsimi,Bakı
 6478372,397000,AZN,3,165.0,7,True,Nəsimi,Bakı
@@ -760,7 +1125,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6349185,292000,AZN,3,69.0,2,True,Bakmil,Bakı
 6348113,219000,AZN,4,199.7,9,False,,Sumqayıt
 6457922,218000,AZN,3,75.0,8,True,Xalqlar Dostluğu,Bakı
-6398187,345000,AZN,3,105.0,15,True,28 May,Bakı
 6413356,1500000,AZN,,281.3,,True,Nizami,Bakı
 6449762,369000,AZN,3,117.0,17,True,Nizami,Bakı
 6451963,399000,AZN,2,115.0,5,True,Xətai,Bakı
@@ -833,7 +1197,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6299431,231608,AZN,1,52.4,7,False,Nardaran,Bakı
 6481456,173500,AZN,4,100.0,1,True,Əhmədli,Bakı
 6392222,233000,AZN,2,60.0,3,True,Elmlər Akademiyası,Bakı
-6464007,585000,AZN,4,170.0,,True,Mərdəkan,Bakı
 6428728,300000,AZN,3,96.0,15,True,20 Yanvar,Bakı
 6376395,155000,AZN,,2574.0,,,,Biləsuvar
 6375925,363000,AZN,,4630.1,,,,Biləsuvar
@@ -852,7 +1215,7 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6220943,453700,AZN,2,69.3,12,False,Nardaran,Bakı
 6461782,78300,AZN,,9.0,,,,İsmayıllı
 6472938,379500,AZN,4,175.0,5,True,Memar Əcəmi,Bakı
-6236121,180,AZN,2,99.0,6,True,Sea Breeze,Bakı
+6236121,150,AZN,2,99.0,6,True,Sea Breeze,Bakı
 6472784,325000,AZN,3,110.0,11,False,Azadlıq Prospekti,Bakı
 6481266,315000,AZN,4,110.0,4,True,Səbail,Bakı
 6234202,650643,AZN,2,90.9,11,True,Nardaran,Bakı
@@ -878,12 +1241,11 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6475590,700000,AZN,5,300.0,12,True,İçəri Şəhər,Bakı
 6339379,324000,AZN,2,82.0,7,True,Dərnəgül,Bakı
 6451466,175000,AZN,3,115.0,2,False,Buzovna,Bakı
-6471657,188000,AZN,5,150.0,,True,Bakıxanov,Bakı
 6478382,198000,AZN,2,90.0,10,False,Biləcəri,Bakı
 5906152,1140000,AZN,2,98.0,18,False,Nəsimi,Bakı
 5427830,6500000,AZN,,1800.0,,True,Nərimanov,Bakı
 6431998,285940,AZN,1,58.0,7,False,Nardaran,Bakı
-6473762,1450,AZN,2,72.0,11,True,28 May,Bakı
+6473762,1400,AZN,2,72.0,11,True,28 May,Bakı
 6069997,1100,AZN,,100.0,,True,,Xırdalan
 6434165,2800,AZN,,80.0,,True,İnşaatçılar,Bakı
 6408290,213000,AZN,3,105.0,6,True,Əhmədli,Bakı
@@ -892,7 +1254,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6481383,236000,AZN,3,85.0,3,True,Nəriman Nərimanov,Bakı
 5670536,547613,AZN,2,85.9,2,True,Nardaran,Bakı
 6214597,280000,AZN,3,125.0,12,True,Badamdar,Bakı
-6368839,228000,AZN,2,60.0,15,True,Nərimanov,Bakı
 6009078,1600,AZN,3,150.0,2,True,Ağ şəhər,Bakı
 4472756,134880,AZN,2,84.3,4,False,,Sumqayıt
 6473615,117000,AZN,2,60.0,3,False,İnşaatçılar,Bakı
@@ -930,7 +1291,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 5443920,308448,AZN,2,100.8,6,False,Sea Breeze,Bakı
 6451497,344640,AZN,3,107.7,9,False,Azadlıq Prospekti,Bakı
 6398944,289000,AZN,3,88.0,12,True,Həzi Aslanov,Bakı
-6049090,205000,AZN,1,54.0,1,False,Sea Breeze,Bakı
 5443739,290955,AZN,2,81.5,9,False,Sea Breeze,Bakı
 6273617,1950000,AZN,,19.0,,False,Əhmədli,Bakı
 6405005,40000,AZN,,3.7,,,,Quba
@@ -976,370 +1336,6 @@ id,price,currency,rooms,area,floor,hasRepair,location,city
 6445548,199000,AZN,3,110.0,11,True,,Xırdalan
 6059886,450000,AZN,4,184.0,14,False,Nəriman Nərimanov,Bakı
 6413960,1600,AZN,6,150.0,,True,Nizami,Bakı
-6390777,325000,AZN,3,147.0,10,False,8-ci mikrorayon,Bakı
-6466784,303000,AZN,3,105.0,9,True,İnşaatçılar,Bakı
-6451938,1500,AZN,2,70.0,,True,Şah İsmayıl Xətai,Bakı
-6376906,295000,AZN,3,125.0,17,True,İnşaatçılar,Bakı
-6445114,66300,AZN,1,40.0,4,True,Masazır,Bakı
-5824417,144450,AZN,4,107.0,7,False,Məmmədli,Bakı
-5883708,99900,AZN,2,74.0,8,False,Məmmədli,Bakı
-5504945,459306,AZN,2,94.8,4,True,Sea Breeze,Bakı
-6175853,250,AZN,3,110.0,,True,Bilgəh,Bakı
-5056392,300000,AZN,1,75.0,4,True,Sea Breeze,Bakı
-4967643,236168,AZN,2,89.1,6,False,Dərnəgül,Bakı
-6454440,450000,AZN,3,90.0,10,True,Sahil,Bakı
-6444349,255000,AZN,3,104.0,9,True,,Sumqayıt
-4472383,72640,AZN,1,45.4,4,False,,Sumqayıt
-6175727,300,AZN,5,180.0,,True,Bilgəh,Bakı
-6458630,120000,AZN,2,35.0,1,True,Memar Əcəmi,Bakı
-6404756,220000,AZN,3,126.3,17,True,Nizami,Bakı
-6327422,900,AZN,,60.0,,True,28 May,Bakı
-4768323,1200000,AZN,5,230.0,,True,Nardaran,Bakı
-5827932,233400,AZN,2,77.8,20,True,20 Yanvar,Bakı
-6465534,262150,AZN,3,74.9,2,True,20 Yanvar,Bakı
-6412250,198000,AZN,2,46.0,5,True,Koroğlu,Bakı
-5504127,416500,AZN,2,98.0,4,False,Sea Breeze,Bakı
-6442333,155000,AZN,2,45.0,13,True,Avtovağzal,Bakı
-6391494,140000,AZN,1,57.0,2,False,Sea Breeze,Bakı
-5010781,279000,AZN,1,47.0,3,True,Sea Breeze,Bakı
-6049365,414000,AZN,2,102.0,4,False,Sea Breeze,Bakı
-6406243,233,AZN,3,100.0,10,True,Elmlər Akademiyası,Bakı
-6470606,89500,AZN,2,69.0,3,True,,Xırdalan
-6412501,765000,AZN,3,139.0,4,True,Sea Breeze,Bakı
-6412505,409000,AZN,2,78.0,2,True,Sea Breeze,Bakı
-6412495,299000,AZN,1,57.0,4,True,Sea Breeze,Bakı
-6327057,250000,AZN,,17.0,,,Digah,Bakı
-4158518,538500,AZN,4,179.5,3,False,8 Noyabr,Bakı
-4090254,401082,AZN,3,129.8,6,False,8 Noyabr,Bakı
-6483850,135000,AZN,,15.0,,,,Qəbələ
-4223527,401700,AZN,3,130.0,6,False,8 Noyabr,Bakı
-3916315,283081,AZN,3,89.3,7,False,8 Noyabr,Bakı
-6283839,353000,AZN,3,134.0,6,True,8 Noyabr,Bakı
-3916248,289731,AZN,3,89.7,9,False,8 Noyabr,Bakı
-4114907,436800,AZN,3,130.0,15,False,8 Noyabr,Bakı
-4170452,163115,AZN,2,50.5,9,False,8 Noyabr,Bakı
-4114924,263360,AZN,3,82.3,8,False,8 Noyabr,Bakı
-4090316,554655,AZN,4,179.5,6,False,8 Noyabr,Bakı
-5936841,233000,AZN,2,98.0,9,False,Nardaran,Bakı
-5869316,232000,AZN,2,76.0,2,False,Nardaran,Bakı
-4223502,404976,AZN,3,129.8,7,False,8 Noyabr,Bakı
-4057824,158570,AZN,2,50.5,6,False,8 Noyabr,Bakı
-4530269,536928,AZN,3,150.4,4,False,Nardaran,Bakı
-4127590,287040,AZN,3,89.7,8,False,8 Noyabr,Bakı
-4076305,164630,AZN,2,50.5,10,False,8 Noyabr,Bakı
-4170473,268298,AZN,3,82.3,10,False,8 Noyabr,Bakı
-4158487,160085,AZN,2,50.5,7,False,8 Noyabr,Bakı
-6478082,110000,AZN,,21.0,,,,Sumqayıt
-5974828,2000,AZN,,95.0,,True,Şah İsmayıl Xətai,Bakı
-6039297,60,AZN,2,80.0,6,True,28 May,Bakı
-6151252,700,AZN,2,70.0,2,True,Memar Əcəmi,Bakı
-3334218,245000,AZN,1,59.4,,True,Nardaran,Bakı
-4672911,165500,AZN,1,48.0,3,False,Nardaran,Bakı
-6295052,272000,AZN,1,54.0,3,True,Sea Breeze,Bakı
-4212393,174000,AZN,1,58.0,2,False,Nardaran,Bakı
-6458688,2200,AZN,,340.0,,True,Nərimanov,Bakı
-4810709,935000,AZN,7,310.0,,False,Nardaran,Bakı
-6445352,157000,AZN,,55.0,,True,28 May,Bakı
-6133209,655000,AZN,3,148.0,6,True,Elmlər Akademiyası,Bakı
-6424169,118500,AZN,1,42.0,1,True,Binəqədi,Bakı
-4435565,279000,AZN,1,57.0,2,True,Nardaran,Bakı
-5066956,705500,AZN,3,138.0,7,True,Sea Breeze,Bakı
-4513499,548505,AZN,1,71.7,7,True,Nardaran,Bakı
-6460421,127500,AZN,2,45.0,3,True,Memar Əcəmi,Bakı
-6475894,365000,AZN,4,153.0,8,True,Nəriman Nərimanov,Bakı
-6464217,644000,AZN,4,127.0,10,True,Şah İsmayıl Xətai,Bakı
-6312537,1500,AZN,,90.0,,True,Yeni Yasamal,Bakı
-6475821,420000,AZN,4,173.0,15,False,Səbail,Bakı
-6255305,375000,AZN,3,136.0,10,True,8 Noyabr,Bakı
-4738960,314250,AZN,1,75.0,3,False,Nizami,Bakı
-6252246,955500,AZN,3,195.0,16,False,Nizami,Bakı
-6029528,353460,AZN,2,86.0,3,False,Nizami,Bakı
-6395524,758500,AZN,4,185.0,15,False,Ağ şəhər,Bakı
-4738972,505440,AZN,2,117.0,10,False,Nizami,Bakı
-6029578,487890,AZN,2,117.0,4,False,Nizami,Bakı
-6041364,1013460,AZN,5,254.0,4,False,Nizami,Bakı
-6354515,580000,AZN,3,170.0,4,False,Şah İsmayıl Xətai,Bakı
-6041162,1023700,AZN,4,290.0,3,False,Nizami,Bakı
-6250444,1125650,AZN,5,235.0,15,False,Nizami,Bakı
-6345039,4000,AZN,,1060.0,,True,Masazır,Bakı
-6041094,768570,AZN,4,187.0,4,False,Nizami,Bakı
-6250487,615450,AZN,3,165.0,3,False,Nizami,Bakı
-5146201,632940,AZN,3,154.0,4,False,Nizami,Bakı
-6472506,640000,AZN,,40.0,,,Nardaran,Bakı
-5798925,574000,AZN,3,117.0,6,False,Ağ şəhər,Bakı
-6470178,135000,AZN,2,45.0,4,True,Əhmədli,Bakı
-6029618,491400,AZN,2,117.0,5,False,Nizami,Bakı
-5646958,790000,AZN,4,225.0,10,False,Nərimanov,Bakı
-6406890,123000,AZN,3,77.0,7,True,,Xırdalan
-5510792,15000,AZN,,770.0,,False,Ağ şəhər,Bakı
-4744384,648740,AZN,3,163.0,6,False,Nizami,Bakı
-6479812,4020000,AZN,12,772.0,14,True,Şah İsmayıl Xətai,Bakı
-4744383,665040,AZN,3,163.0,10,False,Nizami,Bakı
-4893906,513630,AZN,2,117.0,13,False,Nizami,Bakı
-5773211,3500,AZN,,80.0,,False,İçəri Şəhər,Bakı
-4738969,908600,AZN,4,220.0,10,False,Nizami,Bakı
-4738965,968820,AZN,4,241.0,3,False,Nizami,Bakı
-6432206,950,AZN,2,70.0,7,True,Badamdar,Bakı
-5970060,150,AZN,5,210.0,,True,Novxanı,Bakı
-5972621,249500,AZN,4,105.0,2,True,Xalqlar Dostluğu,Bakı
-5778086,100000,AZN,,58.0,,,,Cəlilabad
-5946115,199000,AZN,2,45.0,3,True,Nərimanov,Bakı
-6248327,240000,AZN,2,100.0,4,True,Nəsimi,Bakı
-6284402,210000,AZN,3,60.0,10,True,Nəsimi,Bakı
-6403831,175000,AZN,4,110.0,,True,Şüvəlan,Bakı
-6403821,390000,AZN,4,170.0,,True,Mərdəkan,Bakı
-6064294,310000,AZN,4,110.0,16,True,7-ci mikrorayon,Bakı
-6273855,355000,AZN,3,113.0,4,True,Azadlıq Prospekti,Bakı
-5501175,286671,AZN,2,80.3,1,False,Sea Breeze,Bakı
-6131203,62000,AZN,,4.5,,,Şüvəlan,Bakı
-5988281,280000,AZN,2,112.0,12,True,Nəsimi,Bakı
-5999298,69000,AZN,1,72.4,2,False,Abşeron,Xırdalan
-6316898,249000,AZN,3,131.0,6,True,Yeni Yasamal,Bakı
-6222651,365000,AZN,3,116.0,14,True,Nəsimi,Bakı
-6238695,325000,AZN,3,79.0,8,True,Nəsimi,Bakı
-6157697,145000,AZN,,6.0,,,Mərdəkan,Bakı
-6449737,348000,AZN,,24.0,,True,Bilgəh,Bakı
-5552128,414766,AZN,2,110.9,4,False,Sea Breeze,Bakı
-6054973,96000,AZN,4,112.0,,True,Masazır,Bakı
-6431979,257499,AZN,1,56.1,2,False,Nardaran,Bakı
-6439440,85000,AZN,3,100.0,,True,Abşeron,Bakı
-6443448,255000,AZN,3,80.0,3,True,Yasamal,Bakı
-6418708,365000,AZN,4,142.0,5,True,Qara Qarayev,Bakı
-3466697,909500,AZN,5,267.5,7,False,Nizami,Bakı
-5044313,456000,AZN,2,114.0,2,True,Nizami,Bakı
-5047008,783360,AZN,4,230.4,5,False,Nizami,Bakı
-5047084,909500,AZN,5,267.5,7,False,Nəsimi,Bakı
-5786668,416000,AZN,2,104.0,3,True,Nizami,Bakı
-6472459,114000,AZN,3,80.0,4,True,Masazır,Bakı
-5786592,348000,AZN,2,87.0,2,True,Nizami,Bakı
-5555449,449616,AZN,2,82.7,4,True,Sea Breeze,Bakı
-5047211,592960,AZN,3,174.4,2,False,Nizami,Bakı
-6458467,260000,AZN,4,135.0,,True,Xocəsən,Bakı
-4078471,606060,AZN,4,163.8,15,False,Nizami,Bakı
-6382259,383775,AZN,2,90.3,11,False,Nardaran,Bakı
-6462931,199000,AZN,3,107.0,9,True,Zığ,Bakı
-5926133,150,AZN,1,68.0,1,True,Nardaran,Bakı
-6321462,342000,AZN,3,148.0,11,True,Həzi Aslanov,Bakı
-6447644,1200,AZN,2,104.0,2,True,Şah İsmayıl Xətai,Bakı
-6332689,2500,AZN,,103.0,,True,Gənclik,Bakı
-6457552,270000,AZN,1,46.0,2,True,Nardaran,Bakı
-6452537,365000,AZN,4,160.0,16,True,İnşaatçılar,Bakı
-6473124,115000,AZN,1,44.0,4,False,Sea Breeze,Bakı
-6473127,170000,AZN,2,65.0,2,False,Sea Breeze,Bakı
-6473129,120000,AZN,1,44.0,6,False,Sea Breeze,Bakı
-6473131,91000,AZN,1,38.0,8,False,Sea Breeze,Bakı
-6483844,112000,AZN,2,45.0,11,True,Abşeron,Xırdalan
-5863380,395148,AZN,2,89.4,8,True,Nardaran,Bakı
-5863392,454580,AZN,3,95.5,4,True,Nardaran,Bakı
-6481046,79500,AZN,2,44.0,4,True,Masazır,Bakı
-6408660,1050600,AZN,,103.0,,True,Gənclik,Bakı
-6401117,3000,AZN,,156.0,,True,Gənclik,Bakı
-6401165,7000,AZN,,827.0,,True,Gənclik,Bakı
-6474029,355000,AZN,4,167.0,,True,Badamdar,Bakı
-6346834,385000,AZN,3,116.0,10,True,28 May,Bakı
-4472923,118400,AZN,2,74.0,7,False,,Sumqayıt
-6459403,170000,AZN,2,65.6,6,False,20 Yanvar,Bakı
-5647358,395000,AZN,3,140.0,5,True,Nəriman Nərimanov,Bakı
-6390499,108000,AZN,,6.0,,,Sea Breeze,Bakı
-6478981,430000,AZN,3,144.0,14,True,Nərimanov,Bakı
-5600400,300000,AZN,,120.0,,False,,Sumqayıt
-6430997,32900,AZN,,11.0,,,,Quba
-6329939,14000,AZN,13,530.0,,True,28 May,Bakı
-4882682,190,AZN,5,185.0,,True,,Qusar
-6223640,1071,AZN,3,174.0,7,True,Koroğlu,Bakı
-6352409,350000,AZN,6,390.0,,False,Pirşağı,Bakı
-6483307,372000,AZN,3,116.0,11,False,Azadlıq Prospekti,Bakı
-6471481,108500,AZN,2,50.0,10,True,,Xırdalan
-6447846,650000,AZN,4,195.0,4,False,28 May,Bakı
-6329692,105000,AZN,3,82.0,,True,Binə,Bakı
-6473339,178000,AZN,3,76.0,2,True,Yeni Günəşli,Bakı
-6379586,115000,AZN,2,50.0,5,True,Həzi Aslanov,Bakı
-6336682,325000,AZN,3,100.0,5,True,Şah İsmayıl Xətai,Bakı
-6477938,109000,AZN,,8.8,,,Nardaran,Bakı
-6231360,1400,AZN,2,94.0,12,True,28 May,Bakı
-6419736,332134,AZN,2,107.4,3,False,Badamdar,Bakı
-6467295,435000,AZN,4,190.0,12,True,Nəsimi,Bakı
-6344624,160000,AZN,,29.0,,,,Qəbələ
-6417430,1680000,AZN,,600.0,,False,Sabunçu,Bakı
-6020217,495000,AZN,3,93.0,3,True,Sea Breeze,Bakı
-6476374,187000,AZN,3,80.0,3,True,Bakıxanov,Bakı
-6279253,499000,AZN,3,200.0,,True,Mərdəkan,Bakı
-6414486,27000,AZN,,5.0,,,Mərdəkan,Bakı
-6422602,650000,AZN,3,400.0,18,True,Nəriman Nərimanov,Bakı
-5790039,1500,AZN,3,83.2,4,True,Səbail,Bakı
-6089494,300000,AZN,,2000.0,,False,Mehdiabad,Bakı
-5768893,3000000,AZN,,5000.0,,False,Mehdiabad,Bakı
-6000221,1600,AZN,3,167.0,20,True,Nizami,Bakı
-6337926,920000,AZN,,36.5,,,Mərdəkan,Bakı
-6355164,6000,AZN,,200.0,,True,Şah İsmayıl Xətai,Bakı
-6431881,450000,AZN,,18.0,,,Mərdəkan,Bakı
-6248620,61000,AZN,,7.4,,,Türkan,Bakı
-6475819,1208000,AZN,,302.0,,False,Nərimanov,Bakı
-6326061,12800,AZN,,2.5,,,Türkan,Bakı
-6474700,695000,AZN,4,152.0,9,True,Nəsimi,Bakı
-6473184,450000,AZN,,14.0,,,Saray,Bakı
-5932037,2500,AZN,4,205.0,4,True,Elmlər Akademiyası,Bakı
-6424051,20000,AZN,,557.0,,False,Ağ şəhər,Bakı
-6434895,415000,AZN,4,156.0,15,True,Binəqədi,Bakı
-6419656,410000,AZN,3,152.0,4,True,Badamdar,Bakı
-6394866,159558,AZN,1,58.0,10,False,Yeni Yasamal,Bakı
-6394910,204120,AZN,2,81.0,2,False,Yeni Yasamal,Bakı
-6395050,292404,AZN,3,118.0,8,False,Yeni Yasamal,Bakı
-6395144,321930,AZN,4,146.0,2,False,Yeni Yasamal,Bakı
-6454101,285000,AZN,2,110.0,17,True,Nəsimi,Bakı
-6409676,79500,AZN,2,87.0,13,False,Masazır,Bakı
-6422927,37000,AZN,,4.5,,,Maştağa,Bakı
-6455429,77000,AZN,,5.0,,,Albalılıq,Bakı
-6442475,850,AZN,2,63.0,7,True,Şah İsmayıl Xətai,Bakı
-6360595,115500,AZN,2,55.0,13,True,,Xırdalan
-6458506,149000,AZN,4,120.0,,True,Masazır,Bakı
-6375171,256000,AZN,2,72.1,6,True,7-ci mikrorayon,Bakı
-6374912,2200000,AZN,,3200.0,,True,Xəzər,Bakı
-6475474,235000,AZN,3,101.0,14,True,Həzi Aslanov,Bakı
-6447851,159000,AZN,2,40.0,12,True,Bayıl,Bakı
-6134388,227000,AZN,8,205.0,,True,Mehdiabad,Bakı
-6243634,60000,AZN,,20.0,,,,Quba
-6412547,400000,AZN,,500.0,,False,28 May,Bakı
-6286399,221000,AZN,3,114.0,8,False,Həzi Aslanov,Bakı
-6475707,230000,AZN,4,211.6,,False,Pirallahı,Bakı
-5566735,429000,AZN,4,173.0,3,False,Koroğlu,Bakı
-6409683,310000,AZN,3,137.0,7,True,8-ci kilometr,Bakı
-6260372,149000,AZN,3,120.0,,True,Novxanı,Bakı
-6452870,2000,AZN,5,180.0,,True,Mərdəkan,Bakı
-6164714,47000,AZN,,8.0,,,Qobu,Bakı
-5639405,120,AZN,3,120.0,4,True,Ağ şəhər,Bakı
-6088135,85,AZN,2,98.0,5,True,Şah İsmayıl Xətai,Bakı
-4936758,100,AZN,2,95.0,4,True,Ağ şəhər,Bakı
-6412525,143000,AZN,2,65.0,5,True,Abşeron,Xırdalan
-6371660,265000,AZN,2,100.0,8,True,Binəqədi,Bakı
-6192602,299000,AZN,5,400.0,,False,Badamdar,Bakı
-6467237,177000,AZN,4,260.0,,True,Masazır,Bakı
-6403781,520200,AZN,,280.0,,True,Biləcəri,Bakı
-6274756,67500,AZN,3,110.0,,True,Binə,Bakı
-6283897,165000,AZN,3,80.0,1,True,Köhnə Günəşli,Bakı
-6009441,279000,AZN,2,77.0,15,True,Səbail,Bakı
-6264360,950,AZN,1,44.0,3,True,Sea Breeze,Bakı
-6277179,115000,AZN,2,100.0,5,False,Lökbatan,Bakı
-6090200,99000,AZN,,3.0,,,Mərdəkan,Bakı
-6380393,100000,AZN,1,39.0,6,False,Sea Breeze,Bakı
-6380408,97000,AZN,1,38.0,8,False,Sea Breeze,Bakı
-6433237,128000,AZN,4,120.0,,True,Binəqədi,Bakı
-6172629,750000,AZN,5,400.0,,True,Bilgəh,Bakı
-6422476,188000,AZN,3,80.0,9,True,Qaraçuxur,Bakı
-5776084,285000,AZN,1,58.0,4,True,Nardaran,Bakı
-6464155,330000,AZN,2,65.0,2,True,Sea Breeze,Bakı
-6300677,395000,AZN,,12.0,,,Buzovna,Bakı
-6473114,110000,AZN,1,40.0,2,False,Sea Breeze,Bakı
-6431818,132000,AZN,,12.0,,,Nardaran,Bakı
-5521838,720000,AZN,,44.0,,True,Nardaran,Bakı
-6447764,88500,AZN,2,57.0,3,True,Masazır,Bakı
-6447745,88500,AZN,2,54.0,2,True,Masazır,Bakı
-6477850,153000,AZN,2,55.0,5,True,İnşaatçılar,Bakı
-6183050,440000,AZN,3,105.0,14,True,Koroğlu,Bakı
-6442344,98000,AZN,2,80.8,13,False,Binəqədi,Bakı
-6438875,145000,AZN,3,94.0,11,True,Binəqədi,Bakı
-6386940,277219,AZN,2,70.9,3,False,Nardaran,Bakı
-6475750,160000,AZN,6,160.0,,True,Savalan,Bakı
-6422618,163000,AZN,1,50.0,6,False,Sea Breeze,Bakı
-6461205,129000,AZN,3,62.0,6,True,,Xırdalan
-5263470,816000,AZN,3,135.0,4,True,Sea Breeze,Bakı
-5978391,570000,AZN,6,300.0,,True,Bilgəh,Bakı
-6473069,263500,AZN,1,43.0,6,True,Sea Breeze,Bakı
-6473100,350000,AZN,2,74.0,2,True,Sea Breeze,Bakı
-6473095,360000,AZN,2,76.0,3,True,Sea Breeze,Bakı
-5407427,320000,AZN,3,140.0,17,True,Nərimanov,Bakı
-6480751,117000,AZN,2,60.0,11,False,İnşaatçılar,Bakı
-6436517,12000,AZN,,384.0,,False,Şah İsmayıl Xətai,Bakı
-6468086,67500,AZN,2,50.0,6,False,Masazır,Bakı
-6464118,115000,AZN,3,71.0,5,True,Masazır,Bakı
-6442290,295000,AZN,10,250.0,,True,Zabrat,Bakı
-6314571,365660,AZN,3,114.9,3,False,Nardaran,Bakı
-6091147,258000,AZN,3,90.0,3,True,,Sumqayıt
-6473078,635000,AZN,5,350.0,,True,Mərdəkan,Bakı
-6330330,221995,AZN,1,53.3,7,False,Nardaran,Bakı
-6456260,2000000,AZN,3,266.0,7,True,Sea Breeze,Bakı
-6456270,350000,AZN,2,76.0,2,True,Sea Breeze,Bakı
-6456274,350000,AZN,2,69.0,1,True,Sea Breeze,Bakı
-6456290,207000,AZN,2,64.0,3,False,Sea Breeze,Bakı
-6393075,565000,AZN,4,170.0,3,True,Nəsimi,Bakı
-6052975,455000,AZN,6,350.0,,True,Mərdəkan,Bakı
-6373307,1250000,AZN,6,440.0,15,True,Şah İsmayıl Xətai,Bakı
-6475720,230000,AZN,2,95.0,8,False,Nardaran,Bakı
-6186818,615000,AZN,4,207.0,15,False,Nəsimi,Bakı
-6467037,395000,AZN,3,120.0,12,True,Memar Əcəmi,Bakı
-6220848,174420,AZN,1,36.0,1,True,Nardaran,Bakı
-6477783,125000,AZN,2,52.0,5,True,Badamdar,Bakı
-6483659,290000,AZN,3,90.0,3,True,Şah İsmayıl Xətai,Bakı
-6399911,490000,AZN,3,108.0,16,True,Nizami,Bakı
-6296775,679791,AZN,3,160.7,2,True,Nardaran,Bakı
-6483655,500,AZN,2,35.0,,True,Nəsimi,Bakı
-6193083,550000,AZN,6,160.0,2,True,Nəriman Nərimanov,Bakı
-6174392,300,AZN,5,340.0,,True,Novxanı,Bakı
-6222148,353658,AZN,1,48.4,7,True,Nardaran,Bakı
-6411297,199900,AZN,2,56.2,10,False,Sea Breeze,Bakı
-6428669,260000,AZN,5,120.0,6,True,Əhmədli,Bakı
-5620441,220000,AZN,,1300.0,,False,Qızıldaş,Bakı
-6027878,384846,AZN,2,53.9,5,False,,Qusar
-6411390,198000,AZN,3,70.0,3,True,Bakıxanov,Bakı
-6027981,239292,AZN,2,61.2,12,False,Nardaran,Bakı
-6440600,728475,AZN,3,132.4,15,False,Elmlər Akademiyası,Bakı
-6438371,48000,AZN,3,75.0,,True,Kürdəxanı,Bakı
-6150257,535000,AZN,5,350.0,,True,Buzovna,Bakı
-5971930,287491,AZN,2,72.3,14,False,Nardaran,Bakı
-6270604,635000,AZN,3,162.0,4,False,Ağ şəhər,Bakı
-6373779,680000,AZN,3,108.0,7,True,Ağ şəhər,Bakı
-6483544,347000,AZN,3,77.0,8,True,Nəsimi,Bakı
-6406676,250000,AZN,3,100.0,4,False,Bayıl,Bakı
-6373818,4000,AZN,3,108.0,7,True,Ağ şəhər,Bakı
-6450934,210000,AZN,3,67.0,2,True,İnşaatçılar,Bakı
-6464402,2800,AZN,,45.0,,True,Sahil,Bakı
-4550787,792000,AZN,,264.0,,True,İçəri Şəhər,Bakı
-6452312,185000,AZN,3,63.0,5,True,Əhmədli,Bakı
-6163070,145000,AZN,3,85.0,2,True,Biləcəri,Bakı
-6431725,600000,AZN,,15.0,,,Mərdəkan,Bakı
-6399579,41500,AZN,2,80.0,,True,,Xırdalan
-5676019,472464,AZN,1,57.9,6,False,Nardaran,Bakı
-6376336,1200,AZN,,150.0,,True,Bakıxanov,Bakı
-5818478,143000,AZN,4,136.0,,True,Mehdiabad,Bakı
-6279469,245000,AZN,2,47.0,5,True,28 May,Bakı
-5659944,230233,AZN,1,57.6,5,False,Nardaran,Bakı
-6461146,468000,AZN,4,156.0,18,True,8 Noyabr,Bakı
-6480498,1062000,AZN,,90.0,,True,Nərimanov,Bakı
-6450510,450000,AZN,2,81.8,9,False,Ağ şəhər,Bakı
-5662936,285447,AZN,1,57.9,6,False,Nardaran,Bakı
-6436011,380000,AZN,1,67.1,6,True,Ağ şəhər,Bakı
-6247023,135000,AZN,2,73.0,3,False,Avtovağzal,Bakı
-5444297,358658,AZN,3,84.4,13,True,Sea Breeze,Bakı
-6271339,280000,AZN,4,140.0,,True,Mərdəkan,Bakı
-5767279,150000,AZN,,100.0,,,Məmmədli,Bakı
-6466776,122000,AZN,3,92.7,4,True,,Xırdalan
-6472980,105000,AZN,,6.0,,,Bilgəh,Bakı
-6211662,270000,AZN,4,140.0,,True,Şüvəlan,Bakı
-6469965,395000,AZN,5,200.0,,True,Mərdəkan,Bakı
-5591807,250614,AZN,2,81.9,4,False,Sea Breeze,Bakı
-6406713,1000,AZN,2,52.0,4,True,İçəri Şəhər,Bakı
-6433835,248880,AZN,1,61.0,5,False,Nardaran,Bakı
-5932496,240000,AZN,4,160.0,,True,Şüvəlan,Bakı
-6453680,495000,AZN,4,180.0,,True,Şüvəlan,Bakı
-5443704,231336,AZN,1,56.7,12,False,Sea Breeze,Bakı
-6425468,720000,AZN,7,170.0,,False,Nardaran,Bakı
-6423229,1450000,AZN,14,1250.0,,False,Novxanı,Bakı
-6190260,290000,AZN,4,180.0,,True,Mərdəkan,Bakı
-6461084,609000,AZN,6,420.0,,True,Bilgəh,Bakı
-6231449,229000,AZN,4,80.0,3,True,Həzi Aslanov,Bakı
-6256953,250000,AZN,4,160.0,,True,Şüvəlan,Bakı
-6303020,310000,AZN,3,135.0,2,True,Qara Qarayev,Bakı
-5436469,2200,AZN,,184.0,,True,Xətai,Bakı
-6248609,219900,AZN,2,56.7,11,False,Nəsimi,Bakı
-6477674,229500,AZN,3,80.0,3,True,Həzi Aslanov,Bakı
-6469913,495000,AZN,,200.0,,True,İçəri Şəhər,Bakı
-6071510,40000,AZN,,8.0,,,Qobu,Bakı
-6048046,256000,AZN,2,90.0,11,True,Nərimanov,Bakı
-6467021,541260,AZN,2,76.7,22,True,Nardaran,Bakı
-6461339,230000,AZN,2,96.0,11,True,20 Yanvar,Bakı
-6477661,170000,AZN,4,120.0,,True,Savalan,Bakı
-5950360,400000,AZN,4,177.5,2,False,Şah İsmayıl Xətai,Bakı
-6423373,89000,AZN,2,30.0,,True,28 May,Bakı
 5642771,142560,AZN,4,105.6,7,False,Məmmədli,Bakı
 6223302,755000,AZN,4,185.0,5,True,Elmlər Akademiyası,Bakı
 6157412,877000,AZN,5,320.0,,True,Bilgəh,Bakı
