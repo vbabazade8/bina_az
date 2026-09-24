@@ -1,7 +1,6 @@
 import pandas as pd
 import sys
-# import os
-# print(os.getcwd())
+
 
 sys.stdout.reconfigure(encoding="utf-8")
 
