@@ -31,7 +31,10 @@ def parse_node(node):
         "rooms": node.get("rooms"),
         "area": area.get("value"),
         "floor": node.get("floor"),
+        "floors": node.get("floors"),
         "hasRepair": node.get("hasRepair"),
+        "isVipped": node.get("isVipped"),
+        "isFeatured": node.get("isFeatured"),
         "location": location.get("name"),
         "city": city.get("name"),
     }
@@ -39,19 +42,23 @@ def parse_node(node):
 
 def fetch_page(cursor=None):
     """Fetch one page (24 listings) from bina.az's GraphQL API. cursor=None gets page 1."""
-    variables = {"first": 24}
+    variables = {
+        "first": 24,
+        "filter": {"categoryId":"1","leased": False},
+        "sort": "BUMPED_AT_DESC"
+    }
     if cursor:
         variables["cursor"] = cursor
 
     page_params = {
-        "operationName": "FeaturedItemsRow",
+        "operationName": "SearchItems",
         "variables": json.dumps(variables),
         # This site uses persisted queries: instead of sending the full GraphQL
         # query text, only its hash is sent. The server already knows the query.
         "extensions": json.dumps({
             "persistedQuery": {
                 "version": 1,
-                "sha256Hash": "cc02557ea77b3a51bdca72328af5c60f34c8d80280918d98115862d009a0a31a"
+                "sha256Hash": "b781511a943a4d710eefdf811a24dd4ae353e55d836952603ce0b37fde97d073"
             }
         }),
     }
@@ -63,10 +70,11 @@ def fetch_page(cursor=None):
 all_items = []
 cursor = None
 page_number = 0
+target_count = 10000
 
 # Keep fetching pages until the API says there's nothing left (hasNextPage: false).
 # We don't know the total listing count in advance.
-while True:
+while len(all_items) < target_count:
     result = fetch_page(cursor)
 
     if "data" not in result:
@@ -75,8 +83,8 @@ while True:
         print(result)
         break
 
-    edges = result["data"]["featuredItems"]["edges"]
-    page_info = result["data"]["featuredItems"]["pageInfo"]
+    edges = result["data"]["itemsConnection"]["edges"]
+    page_info = result["data"]["itemsConnection"]["pageInfo"]
 
     for edge in edges:
         all_items.append(parse_node(edge["node"]))
@@ -94,7 +102,7 @@ print("total", len(all_items))
 
 # Save to disk — all_items only exists in memory otherwise and is lost
 # once this script finishes running.
-with open("data/items.csv", "w", newline="", encoding="utf-8") as f:
+with open("data/items_full.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=all_items[0].keys())
     writer.writeheader()
     writer.writerows(all_items)
